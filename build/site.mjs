@@ -40,6 +40,7 @@ const books = BOOKS.map(b => {
 if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
 
 mkdirSync(join(site, 'libri'), { recursive: true });
+for (const f of ['favicon.svg', 'apple-touch-icon.png']) copyFileSync(join(root, 'build/assets', f), join(site, f));
 for (const b of books) copyFileSync(join(root, 'out', b.id + '.html'), join(site, 'libri', b.id + '.html'));
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -62,6 +63,8 @@ const html = `<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pop-up di carta</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="description" content="Libri pop-up di carta in un solo file HTML, da una richiesta di una riga: otto città da sfogliare, con linguette, sportelli e ruote.">
 <style>
 ${css}
