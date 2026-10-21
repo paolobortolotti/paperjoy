@@ -2,7 +2,7 @@
 
 Una skill per Claude Code che trasforma una riga di testo in un libro pop-up di carta: un solo file HTML che si apre, si sfoglia e ha qualcosa da toccare in ogni pagina.
 
-**[Sfoglia gli otto libri d'esempio](https://paolobortolotti.github.io/popup-carta/)**
+**[Sfoglia gli otto libri d'esempio](https://paolobortolotti.github.io/paperjoy/)**
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@ Servono [Claude Code](https://claude.com/claude-code) e Node.js (`node -v` nel T
 
 1. Apri il Terminale e incolla:
    ```bash
-   git clone https://github.com/paolobortolotti/popup-carta ~/.claude/skills/popup-carta
+   git clone https://github.com/paolobortolotti/paperjoy ~/.claude/skills/popup-carta
    ```
 2. Riavvia Claude Code: legge le skill all'avvio.
 3. Chiedi un libro, a parole o con `/popup-carta`:
@@ -31,10 +31,10 @@ Servono [Claude Code](https://claude.com/claude-code) e Node.js (`node -v` nel T
 
    Claude salva un file `.html` nella cartella in cui lavori: aprilo con un doppio clic.
 
-Senza git: scarica lo [zip](https://github.com/paolobortolotti/popup-carta/archive/refs/heads/main.zip), aprilo e sposta la cartella:
+Senza git: scarica lo [zip](https://github.com/paolobortolotti/paperjoy/archive/refs/heads/main.zip), aprilo e sposta la cartella:
 
 ```bash
-mkdir -p ~/.claude/skills && mv ~/Downloads/popup-carta-main ~/.claude/skills/popup-carta
+mkdir -p ~/.claude/skills && mv ~/Downloads/paperjoy-main ~/.claude/skills/popup-carta
 ```
 
 Per aggiornare: `git -C ~/.claude/skills/popup-carta pull`. Per togliere: cancella `~/.claude/skills/popup-carta`.

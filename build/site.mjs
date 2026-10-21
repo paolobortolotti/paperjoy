@@ -21,7 +21,7 @@ const BOOKS = [
 ];
 
 const KIND = { slider: 'linguetta', flap: 'sportello', wheel: 'ruota' };
-const REPO = 'paolobortolotti/popup-carta';
+const REPO = 'paolobortolotti/paperjoy';
 const CLONE = `git clone https://github.com/${REPO} ~/.claude/skills/popup-carta`;
 const errors = [];
 const books = BOOKS.map(b => {
@@ -250,9 +250,9 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
         <li><b>Chiedi un libro</b><p>Descrivi il luogo a parole, oppure comincia con <code>/popup-carta</code>. Claude salva un file .html nella cartella in cui lavori: aprilo con un doppio clic.</p></li>
       </ol>
       <ol class="steps" data-panel="zip" hidden>
-        <li><b>Scarica</b><p><a href="https://github.com/${REPO}/archive/refs/heads/main.zip">popup-carta-main.zip</a> da GitHub.</p></li>
-        <li><b>Apri lo zip</b><p>Doppio clic nella cartella Download: esce la cartella popup-carta-main. Leggi pure SKILL.md: sono le istruzioni che segue Claude.</p></li>
-        <li><b>Spostala tra le skill</b><p>Nel Terminale incolla questa riga, poi riavvia Claude Code.</p><div class="prompt"><code id="cmd-zip">mkdir -p ~/.claude/skills &amp;&amp; mv ~/Downloads/popup-carta-main ~/.claude/skills/popup-carta</code><button type="button" data-copy="#cmd-zip">Copia</button></div></li>
+        <li><b>Scarica</b><p><a href="https://github.com/${REPO}/archive/refs/heads/main.zip">paperjoy-main.zip</a> da GitHub.</p></li>
+        <li><b>Apri lo zip</b><p>Doppio clic nella cartella Download: esce la cartella paperjoy-main. Leggi pure SKILL.md: sono le istruzioni che segue Claude.</p></li>
+        <li><b>Spostala tra le skill</b><p>Nel Terminale incolla questa riga, poi riavvia Claude Code.</p><div class="prompt"><code id="cmd-zip">mkdir -p ~/.claude/skills &amp;&amp; mv ~/Downloads/paperjoy-main ~/.claude/skills/popup-carta</code><button type="button" data-copy="#cmd-zip">Copia</button></div></li>
       </ol>
     </div>
   </div></section>
