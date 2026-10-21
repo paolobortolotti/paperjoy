@@ -1,0 +1,1896 @@
+{
+  "book": {
+    "title": "Borgo ligure",
+    "subtitle": "un libro pop-up in tre aperture",
+    "page": [
+      300,
+      210
+    ],
+    "cover": "deep",
+    "view": {
+      "pitch": 40,
+      "yaw": 0
+    }
+  },
+  "spreads": [
+    {
+      "id": "pendio",
+      "near": {
+        "color": "stone",
+        "art": [
+          {
+            "rect": [
+              0,
+              138,
+              300,
+              14
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              0,
+              150,
+              300,
+              60
+            ],
+            "fill": "sea"
+          },
+          {
+            "waves": [
+              0,
+              152,
+              300,
+              58
+            ],
+            "fill": "sky"
+          },
+          {
+            "path": "M36 176 H62 L57 182 H41 Z",
+            "fill": "terracotta"
+          },
+          {
+            "path": "M48 176 V166 L56 175 Z",
+            "fill": "paper"
+          },
+          {
+            "path": "M206 192 H230 L226 197 H210 Z",
+            "fill": "paper"
+          },
+          {
+            "rect": [
+              210,
+              193.5,
+              16,
+              1
+            ],
+            "fill": "deep"
+          },
+          {
+            "circle": [
+              120,
+              145,
+              1.6
+            ],
+            "fill": "slate"
+          },
+          {
+            "circle": [
+              180,
+              145,
+              1.6
+            ],
+            "fill": "slate"
+          }
+        ]
+      },
+      "far": {
+        "color": "sky",
+        "art": [
+          {
+            "circle": [
+              250,
+              44,
+              11
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M0 118 Q60 70 130 98 Q200 58 300 92 V210 H0 Z",
+            "fill": "sage"
+          },
+          {
+            "path": "M0 158 Q90 118 170 146 Q240 122 300 140 V210 H0 Z",
+            "fill": "olive"
+          },
+          {
+            "path": "M8 176 Q90 146 170 168 Q230 150 296 162",
+            "stroke": "pine",
+            "width": 0.5
+          },
+          {
+            "path": "M8 192 Q90 162 170 184 Q230 166 296 178",
+            "stroke": "pine",
+            "width": 0.5
+          },
+          {
+            "path": "M20 128 Q70 100 120 112",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "circle": [
+              40,
+              170,
+              3
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              62,
+              160,
+              2.6
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              214,
+              154,
+              3
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              250,
+              160,
+              2.6
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              150,
+              112,
+              2.4
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              96,
+              104,
+              2.2
+            ],
+            "fill": "pine"
+          },
+          {
+            "text": "I · IL BORGO SALE DAL MARE",
+            "x": 150,
+            "y": 26,
+            "size": 17,
+            "align": "center",
+            "font": "display",
+            "tracking": 0.06
+          }
+        ]
+      },
+      "pieces": [
+        {
+          "id": "colle",
+          "type": "box",
+          "x": [
+            40,
+            260
+          ],
+          "near": 50,
+          "far": 40,
+          "height": 95,
+          "faces": {
+            "front": {
+              "color": "cream",
+              "outline": "M0 95 V0 L17 -10 L34 0 V-4 H62 V0 L81 -12 L100 0 V-2 H128 V0 L147 -9 L166 0 V-5 H194 V0 L207 -8 L220 0 V95 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    34,
+                    95
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    34,
+                    -4,
+                    28,
+                    99
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    62,
+                    0,
+                    38,
+                    95
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    100,
+                    -2,
+                    28,
+                    97
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    128,
+                    0,
+                    38,
+                    95
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    166,
+                    -5,
+                    28,
+                    100
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    194,
+                    0,
+                    26,
+                    95
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "path": "M0 0 L17 -10 L34 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M62 0 L81 -12 L100 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M128 0 L147 -9 L166 0 Z",
+                  "fill": "slate"
+                },
+                {
+                  "path": "M194 0 L207 -8 L220 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    34,
+                    -4,
+                    28,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    100,
+                    -2,
+                    28,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    166,
+                    -5,
+                    28,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 6,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 16,
+                    "gy": 12.5
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 40,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 12,
+                    "gy": 12.5
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 68,
+                    "y": 5,
+                    "cols": 3,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 11,
+                    "gy": 12.5
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 106,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 12,
+                    "gy": 12.5
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 134,
+                    "y": 5,
+                    "cols": 3,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 11,
+                    "gy": 12.5
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 172,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 12,
+                    "gy": 12.5
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 199,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 7,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 11,
+                    "gy": 12.5
+                  },
+                  "shutters": "pine"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    34,
+                    50
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    34,
+                    0,
+                    28,
+                    50
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    62,
+                    0,
+                    38,
+                    50
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    100,
+                    0,
+                    28,
+                    50
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    128,
+                    0,
+                    38,
+                    50
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    166,
+                    0,
+                    28,
+                    50
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    194,
+                    0,
+                    26,
+                    50
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            },
+            "topBack": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    70,
+                    40
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    70,
+                    0,
+                    80,
+                    40
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    150,
+                    0,
+                    70,
+                    40
+                  ],
+                  "fill": "slate"
+                }
+              ]
+            },
+            "back": {
+              "color": "stone",
+              "art": [
+                {
+                  "windows": {
+                    "x": 12,
+                    "y": 10,
+                    "cols": 10,
+                    "rows": 6,
+                    "w": 4,
+                    "h": 6,
+                    "gx": 21,
+                    "gy": 13
+                  },
+                  "fill": "slate"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "seconda-fila",
+          "type": "step",
+          "parent": "colle",
+          "x": [
+            45,
+            255
+          ],
+          "out": 32,
+          "up": 66,
+          "faces": {
+            "wall": {
+              "color": "cream",
+              "outline": "M0 66 V0 L15 -8 L30 0 V-3 H62 V0 L76 -9 L90 0 V-4 H126 V0 L139 -8 L152 0 V-2 H184 V0 L197 -9 L210 0 V66 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    30,
+                    66
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    30,
+                    -3,
+                    32,
+                    69
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    62,
+                    0,
+                    28,
+                    66
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    90,
+                    -4,
+                    36,
+                    70
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    126,
+                    0,
+                    26,
+                    66
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    152,
+                    -2,
+                    32,
+                    68
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    184,
+                    0,
+                    26,
+                    66
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "path": "M0 0 L15 -8 L30 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M62 0 L76 -9 L90 0 Z",
+                  "fill": "slate"
+                },
+                {
+                  "path": "M126 0 L139 -8 L152 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M184 0 L197 -9 L210 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    30,
+                    -3,
+                    32,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    90,
+                    -4,
+                    36,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    152,
+                    -2,
+                    32,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 6,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 13,
+                    "gy": 12
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 36,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 14,
+                    "gy": 12
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 68,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 12,
+                    "gy": 12
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 96,
+                    "y": 5,
+                    "cols": 3,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 11,
+                    "gy": 12
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 132,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 11,
+                    "gy": 12
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 158,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 14,
+                    "gy": 12
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 190,
+                    "y": 5,
+                    "cols": 2,
+                    "rows": 5,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 11,
+                    "gy": 12
+                  },
+                  "shutters": "pine"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    62,
+                    32
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    62,
+                    0,
+                    64,
+                    32
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    126,
+                    0,
+                    58,
+                    32
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    184,
+                    0,
+                    26,
+                    32
+                  ],
+                  "fill": "slate"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "fronte-mare",
+          "type": "step",
+          "parent": "seconda-fila",
+          "x": [
+            50,
+            250
+          ],
+          "out": 30,
+          "up": 40,
+          "faces": {
+            "wall": {
+              "color": "cream",
+              "outline": "M0 40 V0 L12 -7 L24 0 V-3 H56 V0 L70 -8 L84 0 V-2 H118 V0 L131 -7 L144 0 V-4 H172 V0 L186 -8 L200 0 V40 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    24,
+                    40
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    24,
+                    -3,
+                    32,
+                    43
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    56,
+                    0,
+                    28,
+                    40
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    84,
+                    -2,
+                    34,
+                    42
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    118,
+                    0,
+                    26,
+                    40
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    144,
+                    -4,
+                    28,
+                    44
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "rect": [
+                    172,
+                    0,
+                    28,
+                    40
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "path": "M0 0 L12 -7 L24 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M56 0 L70 -8 L84 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M118 0 L131 -7 L144 0 Z",
+                  "fill": "slate"
+                },
+                {
+                  "path": "M172 0 L186 -8 L200 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    24,
+                    -3,
+                    32,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    84,
+                    -2,
+                    34,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    144,
+                    -4,
+                    28,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 6,
+                    "y": 5,
+                    "cols": 14,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 14,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    19,
+                    200,
+                    1.2
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 4,
+                    "y": 23,
+                    "cols": 14,
+                    "rows": 1,
+                    "w": 9,
+                    "h": 17,
+                    "gx": 14,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    56,
+                    30
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    56,
+                    0,
+                    62,
+                    30
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    118,
+                    0,
+                    54,
+                    30
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    172,
+                    0,
+                    28,
+                    30
+                  ],
+                  "fill": "slate"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "chiesa",
+      "near": {
+        "color": "stone",
+        "art": [
+          {
+            "circle": [
+              150,
+              78,
+              30
+            ],
+            "fill": "cream"
+          },
+          {
+            "circle": [
+              150,
+              78,
+              25
+            ],
+            "fill": "slate"
+          },
+          {
+            "circle": [
+              150,
+              78,
+              21
+            ],
+            "fill": "cream"
+          },
+          {
+            "circle": [
+              150,
+              78,
+              13
+            ],
+            "fill": "slate"
+          },
+          {
+            "circle": [
+              150,
+              78,
+              9
+            ],
+            "fill": "cream"
+          },
+          {
+            "circle": [
+              150,
+              78,
+              3
+            ],
+            "fill": "slate"
+          },
+          {
+            "path": "M0 150 H300",
+            "stroke": "cream",
+            "width": 1.2
+          },
+          {
+            "rect": [
+              0,
+              150,
+              300,
+              60
+            ],
+            "fill": "olive"
+          },
+          {
+            "path": "M0 168 Q75 160 150 168 T300 166",
+            "stroke": "pine",
+            "width": 0.5
+          },
+          {
+            "path": "M0 186 Q75 178 150 186 T300 184",
+            "stroke": "pine",
+            "width": 0.5
+          },
+          {
+            "circle": [
+              36,
+              128,
+              4
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              264,
+              128,
+              4
+            ],
+            "fill": "pine"
+          }
+        ]
+      },
+      "far": {
+        "color": "sky",
+        "art": [
+          {
+            "rect": [
+              0,
+              64,
+              300,
+              70
+            ],
+            "fill": "sea"
+          },
+          {
+            "waves": [
+              0,
+              68,
+              300,
+              64
+            ],
+            "fill": "sky"
+          },
+          {
+            "path": "M0 138 Q150 112 300 138 V210 H0 Z",
+            "fill": "olive"
+          },
+          {
+            "path": "M0 150 Q150 128 300 150",
+            "stroke": "pine",
+            "width": 0.5
+          },
+          {
+            "text": "II · LA CHIESA SUL PROMONTORIO",
+            "x": 150,
+            "y": 26,
+            "size": 17,
+            "align": "center",
+            "font": "display",
+            "tracking": 0.06
+          }
+        ]
+      },
+      "pieces": [
+        {
+          "id": "chiesa",
+          "type": "vfold",
+          "x": 128,
+          "angle": 16,
+          "dir": "right",
+          "width": 74,
+          "height": 104,
+          "faces": {
+            "near": {
+              "color": "cream",
+              "outline": "M0 104 V36 L4 34 V30 Q14 30 18 24 L26 22 Q30 6 37 0 Q44 6 48 22 L56 24 Q60 30 70 30 V34 L74 36 V104 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    40,
+                    74,
+                    4
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    52,
+                    74,
+                    4
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    64,
+                    74,
+                    4
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    76,
+                    74,
+                    4
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    88,
+                    74,
+                    4
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    100,
+                    74,
+                    4
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    34,
+                    74,
+                    2
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "circle": [
+                    37,
+                    22,
+                    7
+                  ],
+                  "fill": "deep"
+                },
+                {
+                  "circle": [
+                    37,
+                    22,
+                    4.5
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "circle": [
+                    37,
+                    22,
+                    2
+                  ],
+                  "fill": "deep"
+                },
+                {
+                  "windows": {
+                    "x": 9,
+                    "y": 54,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 6,
+                    "h": 16,
+                    "gx": 50,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "windows": {
+                    "x": 29,
+                    "y": 78,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 16,
+                    "h": 26,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                }
+              ]
+            },
+            "far": {
+              "color": "stone",
+              "outline": "M0 104 V36 L74 52 V104 Z",
+              "art": [
+                {
+                  "windows": {
+                    "x": 14,
+                    "y": 62,
+                    "cols": 3,
+                    "rows": 1,
+                    "w": 6,
+                    "h": 18,
+                    "gx": 20,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "campanile",
+          "type": "vfold",
+          "x": 96,
+          "angle": 16,
+          "dir": "right",
+          "width": 26,
+          "height": 160,
+          "faces": {
+            "near": {
+              "color": "ochre",
+              "outline": "M0 160 V34 L2 32 V26 L13 0 L24 26 V32 L26 34 V160 Z",
+              "art": [
+                {
+                  "path": "M2 26 L13 0 L24 26 Z",
+                  "fill": "sage"
+                },
+                {
+                  "path": "M5 26 L13 6 L13 26 Z",
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    32,
+                    26,
+                    2
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 7,
+                    "y": 38,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 12,
+                    "h": 18,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                },
+                {
+                  "rect": [
+                    0,
+                    60,
+                    26,
+                    2
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "circle": [
+                    13,
+                    72,
+                    6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "path": "M13 72 V68 M13 72 L16 73",
+                  "stroke": "ink",
+                  "width": 0.7
+                },
+                {
+                  "rect": [
+                    0,
+                    82,
+                    26,
+                    2
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 11,
+                    "y": 92,
+                    "cols": 1,
+                    "rows": 4,
+                    "w": 4,
+                    "h": 9,
+                    "gy": 16
+                  },
+                  "fill": "deep"
+                }
+              ]
+            },
+            "far": {
+              "color": "ochre"
+            }
+          }
+        },
+        {
+          "id": "canonica",
+          "type": "vfold",
+          "x": 36,
+          "angle": 16,
+          "dir": "right",
+          "width": 46,
+          "height": 62,
+          "faces": {
+            "near": {
+              "color": "rose",
+              "outline": "M0 62 V12 L23 0 L46 12 V62 Z",
+              "art": [
+                {
+                  "path": "M0 12 L23 0 L46 12 Z",
+                  "fill": "brick"
+                },
+                {
+                  "windows": {
+                    "x": 8,
+                    "y": 18,
+                    "cols": 3,
+                    "rows": 3,
+                    "w": 4,
+                    "h": 7,
+                    "gx": 13,
+                    "gy": 14
+                  },
+                  "shutters": "pine"
+                }
+              ]
+            },
+            "far": {
+              "color": "peach"
+            }
+          }
+        },
+        {
+          "id": "casa-destra",
+          "type": "vfold",
+          "x": 212,
+          "angle": 16,
+          "dir": "right",
+          "width": 44,
+          "height": 56,
+          "faces": {
+            "near": {
+              "color": "saffron",
+              "outline": "M0 56 V10 L21 0 L42 10 V56 Z",
+              "art": [
+                {
+                  "path": "M0 10 L21 0 L42 10 Z",
+                  "fill": "slate"
+                },
+                {
+                  "windows": {
+                    "x": 8,
+                    "y": 16,
+                    "cols": 3,
+                    "rows": 3,
+                    "w": 4,
+                    "h": 7,
+                    "gx": 12,
+                    "gy": 13
+                  },
+                  "shutters": "sage"
+                }
+              ]
+            },
+            "far": {
+              "color": "ochre"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "porto",
+      "near": {
+        "color": "sea",
+        "art": [
+          {
+            "rect": [
+              0,
+              0,
+              300,
+              22
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              0,
+              20,
+              300,
+              2.5
+            ],
+            "fill": "cream"
+          },
+          {
+            "waves": [
+              0,
+              26,
+              300,
+              184
+            ],
+            "fill": "sky"
+          },
+          {
+            "path": "M18 141 H282",
+            "stroke": "deep",
+            "width": 1.1
+          },
+          {
+            "path": "M40 40 H64 L60 45 H44 Z",
+            "fill": "terracotta"
+          },
+          {
+            "path": "M92 34 H112 L109 38 H95 Z",
+            "fill": "paper"
+          },
+          {
+            "path": "M236 38 H258 L254 43 H240 Z",
+            "fill": "sage"
+          },
+          {
+            "circle": [
+              70,
+              21,
+              1.4
+            ],
+            "fill": "slate"
+          },
+          {
+            "circle": [
+              150,
+              21,
+              1.4
+            ],
+            "fill": "slate"
+          },
+          {
+            "circle": [
+              230,
+              21,
+              1.4
+            ],
+            "fill": "slate"
+          },
+          {
+            "text": "TIRA LA LINGUETTA: LA BARCA ESCE DAL PORTO",
+            "x": 150,
+            "y": 188,
+            "size": 6.4,
+            "align": "center",
+            "fill": "paper",
+            "weight": 600,
+            "tracking": 0.18
+          }
+        ]
+      },
+      "far": {
+        "color": "sky",
+        "art": [
+          {
+            "path": "M0 96 Q80 52 160 84 Q230 50 300 78 V210 H0 Z",
+            "fill": "sage"
+          },
+          {
+            "path": "M0 150 Q100 110 190 140 Q250 118 300 132 V210 H0 Z",
+            "fill": "olive"
+          },
+          {
+            "path": "M10 170 Q100 136 190 160 Q250 144 296 156",
+            "stroke": "pine",
+            "width": 0.5
+          },
+          {
+            "circle": [
+              60,
+              150,
+              3
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              130,
+              128,
+              2.6
+            ],
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              240,
+              140,
+              3
+            ],
+            "fill": "pine"
+          },
+          {
+            "text": "III · IL PORTO",
+            "x": 150,
+            "y": 26,
+            "size": 17,
+            "align": "center",
+            "font": "display",
+            "tracking": 0.06
+          }
+        ]
+      },
+      "pieces": [
+        {
+          "id": "porto",
+          "type": "box",
+          "x": [
+            20,
+            280
+          ],
+          "near": 20,
+          "far": 34,
+          "height": 74,
+          "faces": {
+            "front": {
+              "color": "cream",
+              "outline": "M0 74 V-4 H30 V-8 H62 V-3 H88 V0 L105 -10 L122 0 V-6 H150 V-2 H184 V-9 H212 V-4 H238 V0 L249 -7 L260 0 V74 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    -4,
+                    30,
+                    78
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    30,
+                    -8,
+                    32,
+                    82
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    62,
+                    -3,
+                    26,
+                    77
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    88,
+                    0,
+                    34,
+                    74
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    122,
+                    -6,
+                    28,
+                    80
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    150,
+                    -2,
+                    34,
+                    76
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    184,
+                    -9,
+                    28,
+                    83
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    212,
+                    -4,
+                    26,
+                    78
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    238,
+                    0,
+                    22,
+                    74
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "path": "M88 0 L105 -10 L122 0 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M238 0 L249 -7 L260 0 Z",
+                  "fill": "slate"
+                },
+                {
+                  "rect": [
+                    0,
+                    -4,
+                    30,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    30,
+                    -8,
+                    32,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    62,
+                    -3,
+                    26,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    122,
+                    -6,
+                    28,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    150,
+                    -2,
+                    34,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    184,
+                    -9,
+                    28,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    212,
+                    -4,
+                    26,
+                    1.6
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 6,
+                    "y": 3,
+                    "cols": 18,
+                    "rows": 4,
+                    "w": 4,
+                    "h": 6.5,
+                    "gx": 14,
+                    "gy": 12
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    52,
+                    260,
+                    1.4
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "windows": {
+                    "x": 4,
+                    "y": 57,
+                    "cols": 18,
+                    "rows": 1,
+                    "w": 8,
+                    "h": 17,
+                    "gx": 14.2,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    62,
+                    20
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    62,
+                    0,
+                    60,
+                    20
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    122,
+                    0,
+                    62,
+                    20
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    184,
+                    0,
+                    54,
+                    20
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    238,
+                    0,
+                    22,
+                    20
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            },
+            "topBack": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    130,
+                    34
+                  ],
+                  "fill": "slate"
+                },
+                {
+                  "tiles": [
+                    130,
+                    0,
+                    130,
+                    34
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            },
+            "back": {
+              "color": "stone"
+            }
+          }
+        },
+        {
+          "id": "barca",
+          "type": "slider",
+          "page": "near",
+          "size": [
+            64,
+            30
+          ],
+          "track": [
+            [
+              14,
+              112
+            ],
+            [
+              222,
+              112
+            ]
+          ],
+          "start": 0.12,
+          "tab": {
+            "label": "‹ ›",
+            "color": "ochre"
+          },
+          "face": {
+            "color": "cream",
+            "outline": "M2 20 H22 L44 1 L47 18 V20 H62 L56 29 H8 Z",
+            "art": [
+              {
+                "path": "M2 20 H62 L56 29 H8 Z",
+                "fill": "paper"
+              },
+              {
+                "rect": [
+                  6,
+                  22.5,
+                  52,
+                  1.8
+                ],
+                "fill": "deep"
+              },
+              {
+                "path": "M22 20 L44 1 L47 18 V20 Z",
+                "fill": "cream"
+              },
+              {
+                "path": "M44 1 L44.6 20",
+                "stroke": "brick",
+                "width": 0.8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

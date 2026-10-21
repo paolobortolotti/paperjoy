@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+out/
+logs/
+evals-workspace/
+.claude/
+popup-build.log

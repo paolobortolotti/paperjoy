@@ -1,0 +1,67 @@
+{
+  "book": {
+    "title": "Prova piega a V",
+    "page": [
+      300,
+      210
+    ],
+    "cover": "deep"
+  },
+  "spreads": [
+    {
+      "id": "vfold",
+      "near": {
+        "color": "cream",
+        "art": [
+          {
+            "text": "UNA PIEGA A V",
+            "x": 150,
+            "y": 190,
+            "size": 5.2,
+            "align": "center",
+            "weight": 600,
+            "tracking": 0.18
+          }
+        ]
+      },
+      "far": {
+        "color": "sky"
+      },
+      "pieces": [
+        {
+          "id": "facciata",
+          "type": "vfold",
+          "x": 150,
+          "angle": 22,
+          "dir": "right",
+          "width": 80,
+          "height": 90,
+          "faces": {
+            "near": {
+              "color": "ochre",
+              "outline": "M0 90 V10 L40 0 L80 10 V90 Z",
+              "art": [
+                {
+                  "windows": {
+                    "x": 12,
+                    "y": 24,
+                    "cols": 4,
+                    "rows": 4,
+                    "w": 5,
+                    "h": 8,
+                    "gx": 17,
+                    "gy": 15
+                  },
+                  "shutters": "sage"
+                }
+              ]
+            },
+            "far": {
+              "color": "rose"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

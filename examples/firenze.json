@@ -1,0 +1,7798 @@
+{
+  "book": {
+    "title": "Firenze",
+    "subtitle": "la città in tre aperture",
+    "page": [
+      300,
+      210
+    ],
+    "cover": "pine",
+    "view": {
+      "pitch": 40,
+      "yaw": 0
+    }
+  },
+  "spreads": [
+    {
+      "id": "duomo",
+      "near": {
+        "color": "stone",
+        "art": [
+          {
+            "path": "M0 60 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 76 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 92 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 108 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 124 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 140 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 156 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 172 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 188 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M30 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M60 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M90 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M120 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M150 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M180 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M210 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M240 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M270 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M300 60 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "rect": [
+              0,
+              56,
+              300,
+              3
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              108,
+              126,
+              84,
+              68
+            ],
+            "r": 3,
+            "fill": "cream"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              26
+            ],
+            "fill": "deep"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              23.5
+            ],
+            "fill": "sky"
+          },
+          {
+            "circle": [
+              170.5,
+              160,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              169.26,
+              167.01,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              165.7,
+              173.18,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              160.25,
+              177.75,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              153.56,
+              180.19,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              146.44,
+              180.19,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              139.75,
+              177.75,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              134.3,
+              173.18,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              130.74,
+              167.01,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              129.5,
+              160,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              130.74,
+              152.99,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              134.3,
+              146.82,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              139.75,
+              142.25,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              146.44,
+              139.81,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              153.56,
+              139.81,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              160.25,
+              142.25,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              165.7,
+              146.82,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              169.26,
+              152.99,
+              1.6
+            ],
+            "fill": "peach"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              18
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              165.19,
+              163.08,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              162.35,
+              169.37,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              157.06,
+              173.8,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              150.38,
+              175.5,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              143.62,
+              174.12,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              138.12,
+              169.96,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              134.98,
+              163.82,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              134.81,
+              156.92,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              137.65,
+              150.63,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              142.94,
+              146.2,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              149.62,
+              144.5,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              156.38,
+              145.88,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              161.88,
+              150.04,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              165.02,
+              156.18,
+              1.4
+            ],
+            "fill": "brick"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              13
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              160.5,
+              160,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              158.49,
+              166.17,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              153.24,
+              169.99,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              146.76,
+              169.99,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              141.51,
+              166.17,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              139.5,
+              160,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              141.51,
+              153.83,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              146.76,
+              150.01,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              153.24,
+              150.01,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              158.49,
+              153.83,
+              1.2
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              8
+            ],
+            "fill": "ochre"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              5
+            ],
+            "fill": "cream"
+          },
+          {
+            "circle": [
+              150,
+              160,
+              2.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "path": "M30 120 Q24 105 30 90 Q36 105 30 120 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M44 116 Q39.2 104 44 92 Q48.8 104 44 116 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M262 120 Q256 105 262 90 Q268 105 262 120 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M276 116 Q271.2 104 276 92 Q280.8 104 276 116 Z",
+            "fill": "pine"
+          },
+          {
+            "text": "SOLLEVA LA CUPOLA: DENTRO C'È IL GIUDIZIO UNIVERSALE",
+            "x": 150,
+            "y": 203,
+            "size": 6.4,
+            "align": "center",
+            "weight": 600,
+            "tracking": 0.18,
+            "fill": "ink"
+          }
+        ]
+      },
+      "far": {
+        "color": "sky",
+        "art": [
+          {
+            "path": "M0 104 Q70 72 150 92 Q230 66 300 98 V210 H0 Z",
+            "fill": "sage"
+          },
+          {
+            "path": "M0 132 Q80 104 160 122 Q240 102 300 124 V210 H0 Z",
+            "fill": "olive"
+          },
+          {
+            "path": "M30 132 Q25.6 121 30 110 Q34.4 121 30 132 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M272 126 Q268 116 272 106 Q276 116 272 126 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M120 120 Q116.8 112 120 104 Q123.2 112 120 120 Z",
+            "fill": "pine"
+          },
+          {
+            "rect": [
+              0,
+              150,
+              14,
+              16
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M0 150 L7 147 L14 150 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 2,
+              "y": 153,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              14,
+              145,
+              13,
+              21
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M14 145 L20.5 142 L27 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 16,
+              "y": 148,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              27,
+              147,
+              12,
+              19
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M27 147 L33 144 L39 147 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 29,
+              "y": 150,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              39,
+              149,
+              11,
+              17
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M39 149 L44.5 146 L50 149 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 41,
+              "y": 152,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              50,
+              151,
+              10,
+              15
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M50 151 L55 148 L60 151 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 52,
+              "y": 154,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              60,
+              146,
+              9,
+              20
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M60 146 L64.5 143 L69 146 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 62,
+              "y": 149,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              69,
+              148,
+              16,
+              18
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M69 148 L77 145 L85 148 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 71,
+              "y": 151,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              85,
+              150,
+              15,
+              16
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M85 150 L92.5 147 L100 150 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 87,
+              "y": 153,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              100,
+              145,
+              14,
+              21
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M100 145 L107 142 L114 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 102,
+              "y": 148,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              114,
+              147,
+              13,
+              19
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M114 147 L120.5 144 L127 147 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 116,
+              "y": 150,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              127,
+              149,
+              12,
+              17
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M127 149 L133 146 L139 149 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 129,
+              "y": 152,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              139,
+              151,
+              11,
+              15
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M139 151 L144.5 148 L150 151 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 141,
+              "y": 154,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              150,
+              146,
+              10,
+              20
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M150 146 L155 143 L160 146 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 152,
+              "y": 149,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              160,
+              148,
+              9,
+              18
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M160 148 L164.5 145 L169 148 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 162,
+              "y": 151,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              169,
+              150,
+              16,
+              16
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M169 150 L177 147 L185 150 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 171,
+              "y": 153,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              185,
+              145,
+              15,
+              21
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M185 145 L192.5 142 L200 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 187,
+              "y": 148,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              200,
+              147,
+              14,
+              19
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M200 147 L207 144 L214 147 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 202,
+              "y": 150,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              214,
+              149,
+              13,
+              17
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M214 149 L220.5 146 L227 149 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 216,
+              "y": 152,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              227,
+              151,
+              12,
+              15
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M227 151 L233 148 L239 151 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 229,
+              "y": 154,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              239,
+              146,
+              11,
+              20
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M239 146 L244.5 143 L250 146 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 241,
+              "y": 149,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              250,
+              148,
+              10,
+              18
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M250 148 L255 145 L260 148 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 252,
+              "y": 151,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              260,
+              150,
+              9,
+              16
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M260 150 L264.5 147 L269 150 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 262,
+              "y": 153,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              269,
+              145,
+              16,
+              21
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M269 145 L277 142 L285 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 271,
+              "y": 148,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              285,
+              147,
+              15,
+              19
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M285 147 L292.5 144 L300 147 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 287,
+              "y": 150,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              0,
+              166,
+              300,
+              44
+            ],
+            "fill": "stone"
+          },
+          {
+            "text": "I · IL DUOMO",
+            "x": 150,
+            "y": 26,
+            "size": 17,
+            "align": "center",
+            "font": "display",
+            "tracking": 0.06
+          }
+        ]
+      },
+      "pieces": [
+        {
+          "id": "santa-maria-del-fiore",
+          "type": "box",
+          "x": [
+            70,
+            230
+          ],
+          "near": 60,
+          "far": 40,
+          "height": 90,
+          "faces": {
+            "front": {
+              "color": "cream",
+              "outline": "M0 90 V6 L6 0 H40 V-18 H46 C48 -38 66 -50 77 -51 V-54 H78.6 V-56.5 L80 -58 L81.4 -56.5 V-54 H83 V-51 C94 -50 112 -38 114 -18 H120 V0 H154 L160 6 V90 Z",
+              "art": [
+                {
+                  "rect": [
+                    40,
+                    -18,
+                    80,
+                    18
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    40,
+                    -18,
+                    80,
+                    1.6
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    40,
+                    -4,
+                    80,
+                    1.6
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "circle": [
+                    50,
+                    -10.5,
+                    2.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    50,
+                    -10.5,
+                    1.5
+                  ],
+                  "fill": "deep"
+                },
+                {
+                  "circle": [
+                    62,
+                    -10.5,
+                    2.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    62,
+                    -10.5,
+                    1.5
+                  ],
+                  "fill": "deep"
+                },
+                {
+                  "circle": [
+                    98,
+                    -10.5,
+                    2.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    98,
+                    -10.5,
+                    1.5
+                  ],
+                  "fill": "deep"
+                },
+                {
+                  "circle": [
+                    110,
+                    -10.5,
+                    2.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    110,
+                    -10.5,
+                    1.5
+                  ],
+                  "fill": "deep"
+                },
+                {
+                  "path": "M46 -18 C48 -38 66 -50 77 -51 H83 C94 -50 112 -38 114 -18 Z",
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    46,
+                    -51,
+                    68,
+                    33
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "path": "M46.6 -18 C49 -37 66 -49 77 -51",
+                  "stroke": "paper",
+                  "width": 1.6
+                },
+                {
+                  "path": "M61 -18 C62 -34 70 -46 78 -51",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M80 -18 V-51",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M99 -18 C98 -34 90 -46 82 -51",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M113.4 -18 C111 -37 94 -49 83 -51",
+                  "stroke": "paper",
+                  "width": 1.6
+                },
+                {
+                  "path": "M77 -51 V-54 H78.6 V-56.5 L80 -58 L81.4 -56.5 V-54 H83 V-51 Z",
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    78.4,
+                    -53.6,
+                    0.8,
+                    2.4
+                  ],
+                  "fill": "stone"
+                },
+                {
+                  "rect": [
+                    80.8,
+                    -53.6,
+                    0.8,
+                    2.4
+                  ],
+                  "fill": "stone"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    160,
+                    90
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "path": "M0 6 L6 0 H40 V2 H6 L0 8 Z",
+                  "fill": "pine"
+                },
+                {
+                  "path": "M160 6 L154 0 H120 V2 H154 L160 8 Z",
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    4,
+                    32,
+                    20,
+                    28
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    28,
+                    36,
+                    18,
+                    24
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    114,
+                    36,
+                    18,
+                    24
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    136,
+                    32,
+                    20,
+                    28
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    4,
+                    66,
+                    20,
+                    22
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    28,
+                    66,
+                    18,
+                    22
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    114,
+                    66,
+                    18,
+                    22
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    136,
+                    66,
+                    20,
+                    22
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    3,
+                    90
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    24,
+                    0,
+                    3,
+                    90
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    46,
+                    0,
+                    3,
+                    90
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    111,
+                    0,
+                    3,
+                    90
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    133,
+                    0,
+                    3,
+                    90
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    157,
+                    0,
+                    3,
+                    90
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    30,
+                    160,
+                    2.4
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    62,
+                    160,
+                    2.4
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    85,
+                    160,
+                    5
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "rect": [
+                    0,
+                    87,
+                    160,
+                    1.2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 6,
+                    "y": 8,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 14,
+                    "gx": 12,
+                    "arch": true
+                  },
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 29,
+                    "y": 8,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 14,
+                    "gx": 9,
+                    "arch": true
+                  },
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 115,
+                    "y": 8,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 14,
+                    "gx": 9,
+                    "arch": true
+                  },
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 138,
+                    "y": 8,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 14,
+                    "gx": 12,
+                    "arch": true
+                  },
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 52,
+                    "y": 6,
+                    "cols": 8,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 12,
+                    "gx": 7.2,
+                    "arch": true
+                  },
+                  "fill": "sage"
+                },
+                {
+                  "rect": [
+                    50,
+                    20,
+                    60,
+                    1.6
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "circle": [
+                    80,
+                    45,
+                    12
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "circle": [
+                    80,
+                    45,
+                    10.5
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "circle": [
+                    80,
+                    45,
+                    8.5
+                  ],
+                  "fill": "sky"
+                },
+                {
+                  "circle": [
+                    80,
+                    45,
+                    6
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "circle": [
+                    80,
+                    45,
+                    3.6
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "circle": [
+                    80,
+                    45,
+                    1.4
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "windows": {
+                    "x": 54,
+                    "y": 36,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 5,
+                    "h": 18,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "windows": {
+                    "x": 101,
+                    "y": 36,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 5,
+                    "h": 18,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "path": "M66 90 V76 Q66 64 80 63 Q94 64 94 76 V90 Z",
+                  "fill": "rose"
+                },
+                {
+                  "windows": {
+                    "x": 69,
+                    "y": 68,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 22,
+                    "h": 22,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                },
+                {
+                  "rect": [
+                    79.5,
+                    72,
+                    1,
+                    18
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "windows": {
+                    "x": 31,
+                    "y": 72,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 12,
+                    "h": 18,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                },
+                {
+                  "windows": {
+                    "x": 117,
+                    "y": 72,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 12,
+                    "h": 18,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                },
+                {
+                  "path": "M50 0 L80 -14 L110 0 Z",
+                  "fill": "cream"
+                },
+                {
+                  "path": "M50 0 L80 -14 L110 0",
+                  "stroke": "pine",
+                  "width": 1.4
+                },
+                {
+                  "circle": [
+                    80,
+                    -5,
+                    3.2
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "circle": [
+                    80,
+                    -5,
+                    1.6
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    160,
+                    1.6
+                  ],
+                  "fill": "pine"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    160,
+                    60
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    160,
+                    1.6
+                  ],
+                  "fill": "pine"
+                }
+              ]
+            },
+            "topBack": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    160,
+                    40
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            },
+            "back": {
+              "color": "cream",
+              "art": [
+                {
+                  "windows": {
+                    "x": 12,
+                    "y": 14,
+                    "cols": 7,
+                    "rows": 1,
+                    "w": 6,
+                    "h": 18,
+                    "gx": 21,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    0,
+                    40,
+                    160,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    70,
+                    160,
+                    2
+                  ],
+                  "fill": "pine"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "battistero",
+          "type": "vfold",
+          "x": 22,
+          "angle": 16,
+          "dir": "right",
+          "width": 44,
+          "height": 62,
+          "faces": {
+            "near": {
+              "color": "cream",
+              "outline": "M0 62 V22 H3 L19 9 V4 L22 1 L25 4 V9 L41 22 H44 V62 Z",
+              "art": [
+                {
+                  "path": "M3 22 L19 9 H25 L41 22 Z",
+                  "fill": "paper"
+                },
+                {
+                  "path": "M19 9 V4 L22 1 L25 4 V9 Z",
+                  "fill": "paper"
+                },
+                {
+                  "path": "M3 22 L19 9 H25 L41 22",
+                  "stroke": "stone",
+                  "width": 0.6
+                },
+                {
+                  "rect": [
+                    0,
+                    22,
+                    44,
+                    40
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    0,
+                    22,
+                    44,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    40,
+                    44,
+                    1.6
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    59,
+                    44,
+                    3
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    22,
+                    2,
+                    40
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    14,
+                    22,
+                    2,
+                    40
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    28,
+                    22,
+                    2,
+                    40
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    42,
+                    22,
+                    2,
+                    40
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 4.5,
+                    "y": 27,
+                    "cols": 3,
+                    "rows": 1,
+                    "w": 5,
+                    "h": 10,
+                    "gx": 14,
+                    "arch": true
+                  },
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 4,
+                    "y": 44,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 6,
+                    "h": 12
+                  },
+                  "fill": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 34,
+                    "y": 44,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 6,
+                    "h": 12
+                  },
+                  "fill": "sage"
+                },
+                {
+                  "windows": {
+                    "x": 16,
+                    "y": 43,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 12,
+                    "h": 16,
+                    "arch": true
+                  },
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    21.6,
+                    47,
+                    0.8,
+                    12
+                  ],
+                  "fill": "ochre"
+                }
+              ]
+            },
+            "far": {
+              "color": "cream",
+              "outline": "M0 62 V22 H3 L19 9 V4 L22 1 L25 4 V9 L41 22 H44 V62 Z",
+              "art": [
+                {
+                  "path": "M3 22 L19 9 H25 L41 22 Z",
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    0,
+                    22,
+                    44,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    59,
+                    44,
+                    3
+                  ],
+                  "fill": "pine"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "campanile-di-giotto",
+          "type": "vfold",
+          "x": 266,
+          "angle": 12,
+          "dir": "left",
+          "width": 26,
+          "height": 135,
+          "faces": {
+            "near": {
+              "color": "cream",
+              "outline": "M0 135 V0 H26 V135 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    26,
+                    135
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    26,
+                    5
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    5,
+                    26,
+                    2
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "windows": {
+                    "x": 4,
+                    "y": 12,
+                    "cols": 3,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 26,
+                    "gx": 7,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    0,
+                    42,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 5,
+                    "y": 48,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 5,
+                    "h": 18,
+                    "gx": 11,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    0,
+                    70,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 5,
+                    "y": 76,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 5,
+                    "h": 16,
+                    "gx": 11,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    0,
+                    96,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    3,
+                    99,
+                    20,
+                    10
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    0,
+                    110,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "circle": [
+                    5,
+                    118,
+                    2.6
+                  ],
+                  "fill": "sky"
+                },
+                {
+                  "circle": [
+                    13,
+                    118,
+                    2.6
+                  ],
+                  "fill": "sky"
+                },
+                {
+                  "circle": [
+                    21,
+                    118,
+                    2.6
+                  ],
+                  "fill": "sky"
+                },
+                {
+                  "rect": [
+                    0,
+                    124,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    3,
+                    127,
+                    20,
+                    8
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    2,
+                    135
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    24,
+                    0,
+                    2,
+                    135
+                  ],
+                  "fill": "pine"
+                }
+              ]
+            },
+            "far": {
+              "color": "cream",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    26,
+                    5
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    42,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    96,
+                    26,
+                    2
+                  ],
+                  "fill": "pine"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "dentro-la-cupola",
+          "type": "flap",
+          "page": "near",
+          "x": [
+            115,
+            185
+          ],
+          "y": 132,
+          "length": 56,
+          "faces": {
+            "front": {
+              "color": "terracotta",
+              "outline": "M23.4 0 L46.6 0 L63 16.4 L63 39.6 L46.6 56 L23.4 56 L7 39.6 L7 16.4 Z",
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    70,
+                    56
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "path": "M23.4 0 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M46.6 0 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M63 16.4 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M63 39.6 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M46.6 56 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M23.4 56 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M7 39.6 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M7 16.4 L35 28",
+                  "stroke": "paper",
+                  "width": 1.4
+                },
+                {
+                  "path": "M23.4 0 L46.6 0 L63 16.4 L63 39.6 L46.6 56 L23.4 56 L7 39.6 L7 16.4 Z",
+                  "stroke": "paper",
+                  "width": 1.6
+                },
+                {
+                  "circle": [
+                    35,
+                    28,
+                    5
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "circle": [
+                    35,
+                    28,
+                    2.6
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "circle": [
+                    35,
+                    28,
+                    1
+                  ],
+                  "fill": "stone"
+                }
+              ]
+            },
+            "back": {
+              "color": "cream",
+              "outline": "M23.4 0 L46.6 0 L63 16.4 L63 39.6 L46.6 56 L23.4 56 L7 39.6 L7 16.4 Z",
+              "art": [
+                {
+                  "path": "M23.4 0 L46.6 0 L63 16.4 L63 39.6 L46.6 56 L23.4 56 L7 39.6 L7 16.4 Z",
+                  "stroke": "terracotta",
+                  "width": 1.6
+                },
+                {
+                  "text": "IL GIUDIZIO",
+                  "x": 35,
+                  "y": 25,
+                  "size": 8,
+                  "font": "display",
+                  "align": "center",
+                  "tracking": 0.06
+                },
+                {
+                  "text": "UNIVERSALE",
+                  "x": 35,
+                  "y": 33,
+                  "size": 8,
+                  "font": "display",
+                  "align": "center",
+                  "tracking": 0.06
+                },
+                {
+                  "text": "VASARI E ZUCCARI",
+                  "x": 35,
+                  "y": 41,
+                  "size": 3.4,
+                  "align": "center",
+                  "weight": 600,
+                  "tracking": 0.18
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ponte-vecchio",
+      "near": {
+        "color": "sea",
+        "art": [
+          {
+            "path": "M30 30 H270 V44 Q262 48 252 44 Q240 50 228 45 Q214 50 200 45 Q186 50 172 45 Q160 50 150 45 Q138 50 126 45 Q114 50 100 45 Q88 50 76 45 Q62 50 48 45 Q38 49 30 44 Z",
+            "fill": "deep"
+          },
+          {
+            "waves": [
+              0,
+              32,
+              300,
+              146
+            ],
+            "fill": "sage"
+          },
+          {
+            "path": "M40 64 Q66 60 92 64",
+            "stroke": "paper",
+            "width": 0.5
+          },
+          {
+            "path": "M196 88 Q222 84 248 88",
+            "stroke": "paper",
+            "width": 0.5
+          },
+          {
+            "rect": [
+              0,
+              178,
+              300,
+              4
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              0,
+              182,
+              300,
+              28
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              3,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              13,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              23,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              33,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              43,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              53,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              63,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              73,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              83,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              93,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              103,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              113,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              123,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              133,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              143,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              153,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              163,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              173,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              183,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              193,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              203,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              213,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              223,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              233,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              243,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              253,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              263,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              273,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              283,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              293,
+              178.6,
+              1.2,
+              3
+            ],
+            "fill": "stone"
+          },
+          {
+            "text": "TIRA LA LINGUETTA: I CANOTTIERI SCENDONO L'ARNO",
+            "x": 150,
+            "y": 198,
+            "size": 6.4,
+            "align": "center",
+            "weight": 600,
+            "tracking": 0.18,
+            "fill": "ink"
+          }
+        ]
+      },
+      "far": {
+        "color": "sky",
+        "art": [
+          {
+            "circle": [
+              252,
+              52,
+              10
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M0 112 Q60 80 140 100 Q220 74 300 104 V210 H0 Z",
+            "fill": "sage"
+          },
+          {
+            "path": "M0 134 Q90 112 180 126 Q250 114 300 128 V210 H0 Z",
+            "fill": "olive"
+          },
+          {
+            "path": "M196 108 H214 V100 H218 V108 H226 V118 H196 Z",
+            "fill": "cream"
+          },
+          {
+            "path": "M186 120 Q182.8 112 186 104 Q189.2 112 186 120 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M232 118 Q228.8 110 232 102 Q235.2 110 232 118 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M60 128 Q57.2 121 60 114 Q62.8 121 60 128 Z",
+            "fill": "pine"
+          },
+          {
+            "rect": [
+              0,
+              148,
+              20,
+              28
+            ],
+            "fill": "ochre"
+          },
+          {
+            "rect": [
+              0,
+              146,
+              20,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 3,
+              "y": 152,
+              "cols": 3,
+              "rows": 2,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "olive"
+          },
+          {
+            "rect": [
+              20,
+              137,
+              27,
+              39
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              20,
+              135,
+              27,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 23,
+              "y": 141,
+              "cols": 4,
+              "rows": 3,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "pine"
+          },
+          {
+            "rect": [
+              47,
+              144,
+              22,
+              32
+            ],
+            "fill": "peach"
+          },
+          {
+            "rect": [
+              47,
+              142,
+              22,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 50,
+              "y": 148,
+              "cols": 3,
+              "rows": 2,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "olive"
+          },
+          {
+            "rect": [
+              69,
+              133,
+              29,
+              43
+            ],
+            "fill": "rose"
+          },
+          {
+            "rect": [
+              69,
+              131,
+              29,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 72,
+              "y": 137,
+              "cols": 4,
+              "rows": 3,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "pine"
+          },
+          {
+            "rect": [
+              98,
+              140,
+              24,
+              36
+            ],
+            "fill": "saffron"
+          },
+          {
+            "rect": [
+              98,
+              138,
+              24,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 101,
+              "y": 144,
+              "cols": 3,
+              "rows": 3,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "olive"
+          },
+          {
+            "rect": [
+              122,
+              147,
+              31,
+              29
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "rect": [
+              122,
+              145,
+              31,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 125,
+              "y": 151,
+              "cols": 4,
+              "rows": 2,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "pine"
+          },
+          {
+            "rect": [
+              153,
+              136,
+              26,
+              40
+            ],
+            "fill": "stone"
+          },
+          {
+            "rect": [
+              153,
+              134,
+              26,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 156,
+              "y": 140,
+              "cols": 4,
+              "rows": 3,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "olive"
+          },
+          {
+            "rect": [
+              179,
+              143,
+              21,
+              33
+            ],
+            "fill": "ochre"
+          },
+          {
+            "rect": [
+              179,
+              141,
+              21,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 182,
+              "y": 147,
+              "cols": 3,
+              "rows": 2,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "pine"
+          },
+          {
+            "rect": [
+              200,
+              132,
+              28,
+              44
+            ],
+            "fill": "peach"
+          },
+          {
+            "rect": [
+              200,
+              130,
+              28,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 203,
+              "y": 136,
+              "cols": 4,
+              "rows": 4,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "olive"
+          },
+          {
+            "rect": [
+              228,
+              139,
+              23,
+              37
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              228,
+              137,
+              23,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 231,
+              "y": 143,
+              "cols": 3,
+              "rows": 3,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "pine"
+          },
+          {
+            "rect": [
+              251,
+              146,
+              30,
+              30
+            ],
+            "fill": "rose"
+          },
+          {
+            "rect": [
+              251,
+              144,
+              30,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 254,
+              "y": 150,
+              "cols": 4,
+              "rows": 2,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "olive"
+          },
+          {
+            "rect": [
+              281,
+              135,
+              25,
+              41
+            ],
+            "fill": "saffron"
+          },
+          {
+            "rect": [
+              281,
+              133,
+              25,
+              2
+            ],
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 284,
+              "y": 139,
+              "cols": 3,
+              "rows": 3,
+              "w": 2.6,
+              "h": 4.5,
+              "gx": 6,
+              "gy": 9
+            },
+            "shutters": "pine"
+          },
+          {
+            "rect": [
+              0,
+              176,
+              300,
+              34
+            ],
+            "fill": "sea"
+          },
+          {
+            "waves": [
+              0,
+              178,
+              300,
+              32
+            ],
+            "fill": "sage"
+          },
+          {
+            "text": "II · PONTE VECCHIO",
+            "x": 150,
+            "y": 26,
+            "size": 17,
+            "align": "center",
+            "font": "display",
+            "tracking": 0.06
+          }
+        ]
+      },
+      "pieces": [
+        {
+          "id": "ponte",
+          "type": "box",
+          "x": [
+            30,
+            270
+          ],
+          "near": 30,
+          "far": 30,
+          "height": 70,
+          "faces": {
+            "front": {
+              "color": "cream",
+              "outline": "M0 70 V-8 H22 V-16 H218 V-10 H240 V70 H224 V58 Q197 40 170 58 V70 H156 V58 Q120 34 84 58 V70 H70 V58 Q43 40 16 58 V70 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    -16,
+                    240,
+                    56
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    0,
+                    -8,
+                    22,
+                    48
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    218,
+                    -10,
+                    22,
+                    50
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    0,
+                    -8,
+                    22,
+                    1.6
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    218,
+                    -10,
+                    22,
+                    1.6
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    22,
+                    -16,
+                    196,
+                    16
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    22,
+                    -16,
+                    196,
+                    2.2
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "windows": {
+                    "x": 26,
+                    "y": -11,
+                    "cols": 20,
+                    "rows": 1,
+                    "w": 3.2,
+                    "h": 3.2,
+                    "gx": 9.8
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    22,
+                    -1.4,
+                    196,
+                    1.4
+                  ],
+                  "fill": "stone"
+                },
+                {
+                  "rect": [
+                    0,
+                    0,
+                    22,
+                    34
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "windows": {
+                    "x": 3,
+                    "y": 4,
+                    "cols": 2,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    1.5,
+                    26,
+                    19,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    2.5,
+                    27,
+                    17,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    3,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    7,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    11,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    15,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    22,
+                    0,
+                    26,
+                    34
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "windows": {
+                    "x": 25,
+                    "y": 4,
+                    "cols": 3,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "olive"
+                },
+                {
+                  "rect": [
+                    23.5,
+                    26,
+                    23,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    24.5,
+                    27,
+                    21,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    25,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    29,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    33,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    37,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    41,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    48,
+                    0,
+                    22,
+                    34
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "windows": {
+                    "x": 51,
+                    "y": 4,
+                    "cols": 2,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    49.5,
+                    26,
+                    19,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    50.5,
+                    27,
+                    17,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    51,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    55,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    59,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    63,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    70,
+                    0,
+                    28,
+                    34
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "windows": {
+                    "x": 73,
+                    "y": 4,
+                    "cols": 3,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "olive"
+                },
+                {
+                  "rect": [
+                    71.5,
+                    26,
+                    25,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    72.5,
+                    27,
+                    23,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    73,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    77,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    81,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    85,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    89,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    93,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    142,
+                    0,
+                    28,
+                    34
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "windows": {
+                    "x": 145,
+                    "y": 4,
+                    "cols": 3,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    143.5,
+                    26,
+                    25,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    144.5,
+                    27,
+                    23,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    145,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    149,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    153,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    157,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    161,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    165,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    170,
+                    0,
+                    22,
+                    34
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "windows": {
+                    "x": 173,
+                    "y": 4,
+                    "cols": 2,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "olive"
+                },
+                {
+                  "rect": [
+                    171.5,
+                    26,
+                    19,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    172.5,
+                    27,
+                    17,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    173,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    177,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    181,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    185,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    192,
+                    0,
+                    26,
+                    34
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "windows": {
+                    "x": 195,
+                    "y": 4,
+                    "cols": 3,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    193.5,
+                    26,
+                    23,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    194.5,
+                    27,
+                    21,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    195,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    199,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    203,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    207,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    211,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    218,
+                    0,
+                    22,
+                    34
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "windows": {
+                    "x": 221,
+                    "y": 4,
+                    "cols": 2,
+                    "rows": 2,
+                    "w": 3.6,
+                    "h": 6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "olive"
+                },
+                {
+                  "rect": [
+                    219.5,
+                    26,
+                    19,
+                    8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    220.5,
+                    27,
+                    17,
+                    7
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    221,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    225,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    229,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    233,
+                    27,
+                    0.6,
+                    7
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    21.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    47.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    69.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    141.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    169.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    191.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    217.6,
+                    0,
+                    0.8,
+                    34
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    98,
+                    0,
+                    44,
+                    34
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "windows": {
+                    "x": 101,
+                    "y": 6,
+                    "cols": 3,
+                    "rows": 1,
+                    "w": 10,
+                    "h": 26,
+                    "gx": 14,
+                    "arch": true
+                  },
+                  "fill": "sky"
+                },
+                {
+                  "rect": [
+                    98,
+                    30,
+                    44,
+                    4
+                  ],
+                  "fill": "stone"
+                },
+                {
+                  "path": "M2 34 H7 L4.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M10 34 H15 L12.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M18 34 H23 L20.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M26 34 H31 L28.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M34 34 H39 L36.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M42 34 H47 L44.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M50 34 H55 L52.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M58 34 H63 L60.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M66 34 H71 L68.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M74 34 H79 L76.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M82 34 H87 L84.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M90 34 H95 L92.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M98 34 H103 L100.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M106 34 H111 L108.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M114 34 H119 L116.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M122 34 H127 L124.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M130 34 H135 L132.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M138 34 H143 L140.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M146 34 H151 L148.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M154 34 H159 L156.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M162 34 H167 L164.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M170 34 H175 L172.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M178 34 H183 L180.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M186 34 H191 L188.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M194 34 H199 L196.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M202 34 H207 L204.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M210 34 H215 L212.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M218 34 H223 L220.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M226 34 H231 L228.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M234 34 H239 L236.5 40 Z",
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    0,
+                    40,
+                    240,
+                    30
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    0,
+                    40,
+                    240,
+                    2.4
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    0,
+                    44,
+                    240,
+                    0.6
+                  ],
+                  "fill": "stone"
+                },
+                {
+                  "path": "M16 58 Q43 40 70 58",
+                  "stroke": "cream",
+                  "width": 1.6
+                },
+                {
+                  "path": "M84 58 Q120 34 156 58",
+                  "stroke": "cream",
+                  "width": 1.6
+                },
+                {
+                  "path": "M170 58 Q197 40 224 58",
+                  "stroke": "cream",
+                  "width": 1.6
+                },
+                {
+                  "path": "M0 70 V62 L8 58 L16 62 V70 Z",
+                  "fill": "stone"
+                },
+                {
+                  "path": "M70 70 V62 L77 58 L84 62 V70 Z",
+                  "fill": "stone"
+                },
+                {
+                  "path": "M156 70 V62 L163 58 L170 62 V70 Z",
+                  "fill": "stone"
+                },
+                {
+                  "path": "M224 70 V62 L232 58 L240 62 V70 Z",
+                  "fill": "stone"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    98,
+                    30
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    98,
+                    0,
+                    44,
+                    30
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "tiles": [
+                    142,
+                    0,
+                    98,
+                    30
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    22,
+                    0,
+                    196,
+                    6
+                  ],
+                  "fill": "cream"
+                }
+              ]
+            },
+            "topBack": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    120,
+                    30
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    120,
+                    0,
+                    120,
+                    30
+                  ],
+                  "fill": "brick"
+                }
+              ]
+            },
+            "back": {
+              "color": "ochre",
+              "art": [
+                {
+                  "windows": {
+                    "x": 8,
+                    "y": 6,
+                    "cols": 16,
+                    "rows": 2,
+                    "w": 4,
+                    "h": 6,
+                    "gx": 14.5,
+                    "gy": 12
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    40,
+                    240,
+                    30
+                  ],
+                  "fill": "stone"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "canottieri",
+          "type": "slider",
+          "page": "near",
+          "size": [
+            72,
+            22
+          ],
+          "track": [
+            [
+              12,
+              116
+            ],
+            [
+              216,
+              116
+            ]
+          ],
+          "start": 0.1,
+          "tab": {
+            "label": "‹ ›",
+            "color": "ochre"
+          },
+          "face": {
+            "color": "sea",
+            "outline": "M2 15 H30 L33 6 L35 1 H39 L40 6 L49 15 H70 L66 19 H64 V22 H56 V19 H8 Z",
+            "art": [
+              {
+                "path": "M40 9 L60 21",
+                "stroke": "ochre",
+                "width": 0.9
+              },
+              {
+                "path": "M2 15 H70 L66 19 H8 Z",
+                "fill": "paper"
+              },
+              {
+                "rect": [
+                  6,
+                  16.4,
+                  58,
+                  1
+                ],
+                "fill": "brick"
+              },
+              {
+                "path": "M31 15 L33 7 H39 L41 15 Z",
+                "fill": "brick"
+              },
+              {
+                "circle": [
+                  36.5,
+                  3.6,
+                  2.4
+                ],
+                "fill": "peach"
+              },
+              {
+                "rect": [
+                  56,
+                  19.4,
+                  8,
+                  2.6
+                ],
+                "fill": "brick"
+              },
+              {
+                "path": "M40 9 L49 14.4",
+                "stroke": "ochre",
+                "width": 0.9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "piazzale-michelangelo",
+      "near": {
+        "color": "stone",
+        "art": [
+          {
+            "path": "M0 96 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 108 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 120 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 132 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 144 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 156 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 168 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 180 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 192 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 204 H300",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M0 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M24 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M48 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M72 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M96 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M120 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M144 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M168 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M192 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M216 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M240 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M264 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "path": "M288 96 V210",
+            "stroke": "cream",
+            "width": 0.4
+          },
+          {
+            "rect": [
+              0,
+              86,
+              300,
+              4
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              1.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              7.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              13.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              19.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              25.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              31.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              37.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              43.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              49.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              55.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              61.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              67.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              73.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              79.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              85.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              91.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              97.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              103.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              109.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              115.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              121.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              127.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              133.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              139.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              145.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              151.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              157.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              163.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              169.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              175.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              181.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              187.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              193.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              199.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              205.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              211.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              217.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              223.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              229.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              235.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              241.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              247.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              253.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              259.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              265.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              271.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              277.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              283.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              289.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              295.5,
+              80,
+              2,
+              6
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              0,
+              78,
+              300,
+              2.4
+            ],
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              0,
+              0,
+              300,
+              78
+            ],
+            "fill": "sage"
+          },
+          {
+            "path": "M10 60 Q14 56 18 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M31 60 Q35 56 39 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M52 60 Q56 56 60 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M73 60 Q77 56 81 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M94 60 Q98 56 102 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M115 60 Q119 56 123 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M136 60 Q140 56 144 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M157 60 Q161 56 165 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M178 60 Q182 56 186 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M199 60 Q203 56 207 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M220 60 Q224 56 228 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M241 60 Q245 56 249 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M262 60 Q266 56 270 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "path": "M283 60 Q287 56 291 60",
+            "stroke": "olive",
+            "width": 0.5
+          },
+          {
+            "rect": [
+              26,
+              120,
+              132,
+              52
+            ],
+            "r": 4,
+            "fill": "olive"
+          },
+          {
+            "rect": [
+              29,
+              123,
+              126,
+              46
+            ],
+            "r": 3,
+            "fill": "sage"
+          },
+          {
+            "path": "M40 160 Q34 145 40 130 Q46 145 40 160 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M56 156 Q51.2 144 56 132 Q60.8 144 56 156 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M140 160 Q134 145 140 130 Q146 145 140 160 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M124 156 Q119.2 144 124 132 Q128.8 144 124 156 Z",
+            "fill": "pine"
+          },
+          {
+            "circle": [
+              66,
+              134,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              70.6,
+              136,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              75.2,
+              134,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              79.8,
+              136,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              84.4,
+              134,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              89,
+              136,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              93.6,
+              134,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              98.2,
+              136,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              102.8,
+              134,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              107.4,
+              136,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              112,
+              134,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              116.6,
+              136,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              66,
+              144,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              70.6,
+              146,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              75.2,
+              144,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              79.8,
+              146,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              84.4,
+              144,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              89,
+              146,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              93.6,
+              144,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              98.2,
+              146,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              102.8,
+              144,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              107.4,
+              146,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              112,
+              144,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              116.6,
+              146,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              66,
+              154,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              70.6,
+              156,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              75.2,
+              154,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              79.8,
+              156,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              84.4,
+              154,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              89,
+              156,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              93.6,
+              154,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              98.2,
+              156,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              102.8,
+              154,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "circle": [
+              107.4,
+              156,
+              1.5
+            ],
+            "fill": "rose"
+          },
+          {
+            "circle": [
+              112,
+              154,
+              1.5
+            ],
+            "fill": "saffron"
+          },
+          {
+            "circle": [
+              116.6,
+              156,
+              1.5
+            ],
+            "fill": "paper"
+          },
+          {
+            "text": "GIRA IL DISCO: SULLA CITTÀ SCENDE LA NOTTE",
+            "x": 150,
+            "y": 203,
+            "size": 6.4,
+            "align": "center",
+            "weight": 600,
+            "tracking": 0.18,
+            "fill": "ink"
+          }
+        ]
+      },
+      "far": {
+        "color": "sky",
+        "art": [
+          {
+            "path": "M0 86 Q50 58 110 74 Q170 48 230 70 Q270 60 300 72 V210 H0 Z",
+            "fill": "sage"
+          },
+          {
+            "path": "M0 108 Q80 84 150 100 Q230 82 300 98 V210 H0 Z",
+            "fill": "olive"
+          },
+          {
+            "path": "M206 80 H222 V74 H226 V80 H232 V88 H206 Z",
+            "fill": "cream"
+          },
+          {
+            "path": "M196 90 Q193.6 84 196 78 Q198.4 84 196 90 Z",
+            "fill": "pine"
+          },
+          {
+            "path": "M240 92 Q237.6 86 240 80 Q242.4 86 240 92 Z",
+            "fill": "pine"
+          },
+          {
+            "rect": [
+              0,
+              120,
+              16,
+              20
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M0 120 L8 117 L16 120 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 2,
+              "y": 123,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              16,
+              122,
+              15,
+              18
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M16 122 L23.5 119 L31 122 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 18,
+              "y": 125,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              31,
+              124,
+              14,
+              16
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M31 124 L38 121 L45 124 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 33,
+              "y": 127,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              45,
+              119,
+              13,
+              21
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M45 119 L51.5 116 L58 119 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 47,
+              "y": 122,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              58,
+              121,
+              12,
+              19
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M58 121 L64 118 L70 121 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 60,
+              "y": 124,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              70,
+              123,
+              11,
+              17
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M70 123 L75.5 120 L81 123 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 72,
+              "y": 126,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              81,
+              125,
+              10,
+              15
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M81 125 L86 122 L91 125 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 83,
+              "y": 128,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              91,
+              120,
+              9,
+              20
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M91 120 L95.5 117 L100 120 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 93,
+              "y": 123,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              100,
+              122,
+              16,
+              18
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M100 122 L108 119 L116 122 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 102,
+              "y": 125,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              116,
+              124,
+              15,
+              16
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M116 124 L123.5 121 L131 124 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 118,
+              "y": 127,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              131,
+              119,
+              14,
+              21
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M131 119 L138 116 L145 119 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 133,
+              "y": 122,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              145,
+              121,
+              13,
+              19
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M145 121 L151.5 118 L158 121 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 147,
+              "y": 124,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              158,
+              123,
+              12,
+              17
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M158 123 L164 120 L170 123 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 160,
+              "y": 126,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              170,
+              125,
+              11,
+              15
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M170 125 L175.5 122 L181 125 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 172,
+              "y": 128,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              181,
+              120,
+              10,
+              20
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M181 120 L186 117 L191 120 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 183,
+              "y": 123,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              191,
+              122,
+              9,
+              18
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M191 122 L195.5 119 L200 122 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 193,
+              "y": 125,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              200,
+              124,
+              16,
+              16
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M200 124 L208 121 L216 124 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 202,
+              "y": 127,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              216,
+              119,
+              15,
+              21
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M216 119 L223.5 116 L231 119 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 218,
+              "y": 122,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              231,
+              121,
+              14,
+              19
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M231 121 L238 118 L245 121 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 233,
+              "y": 124,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              245,
+              123,
+              13,
+              17
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M245 123 L251.5 120 L258 123 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 247,
+              "y": 126,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              258,
+              125,
+              12,
+              15
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M258 125 L264 122 L270 125 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 260,
+              "y": 128,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              270,
+              120,
+              11,
+              20
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M270 120 L275.5 117 L281 120 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 272,
+              "y": 123,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              281,
+              122,
+              10,
+              18
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M281 122 L286 119 L291 122 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 283,
+              "y": 125,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              291,
+              124,
+              9,
+              16
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M291 124 L295.5 121 L300 124 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 293,
+              "y": 127,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              0,
+              141,
+              12,
+              19
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M0 141 L6 138 L12 141 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 2,
+              "y": 144,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              12,
+              143,
+              11,
+              17
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M12 143 L17.5 140 L23 143 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 14,
+              "y": 146,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              23,
+              145,
+              10,
+              15
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M23 145 L28 142 L33 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 25,
+              "y": 148,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              33,
+              140,
+              9,
+              20
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M33 140 L37.5 137 L42 140 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 35,
+              "y": 143,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              42,
+              142,
+              16,
+              18
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M42 142 L50 139 L58 142 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 44,
+              "y": 145,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              58,
+              144,
+              15,
+              16
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M58 144 L65.5 141 L73 144 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 60,
+              "y": 147,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              73,
+              139,
+              14,
+              21
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M73 139 L80 136 L87 139 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 75,
+              "y": 142,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              87,
+              141,
+              13,
+              19
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M87 141 L93.5 138 L100 141 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 89,
+              "y": 144,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              100,
+              143,
+              12,
+              17
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M100 143 L106 140 L112 143 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 102,
+              "y": 146,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              112,
+              145,
+              11,
+              15
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M112 145 L117.5 142 L123 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 114,
+              "y": 148,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              123,
+              140,
+              10,
+              20
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M123 140 L128 137 L133 140 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 125,
+              "y": 143,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              133,
+              142,
+              9,
+              18
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M133 142 L137.5 139 L142 142 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 135,
+              "y": 145,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              142,
+              144,
+              16,
+              16
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M142 144 L150 141 L158 144 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 144,
+              "y": 147,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              158,
+              139,
+              15,
+              21
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M158 139 L165.5 136 L173 139 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 160,
+              "y": 142,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              173,
+              141,
+              14,
+              19
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M173 141 L180 138 L187 141 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 175,
+              "y": 144,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              187,
+              143,
+              13,
+              17
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M187 143 L193.5 140 L200 143 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 189,
+              "y": 146,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              200,
+              145,
+              12,
+              15
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M200 145 L206 142 L212 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 202,
+              "y": 148,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              212,
+              140,
+              11,
+              20
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M212 140 L217.5 137 L223 140 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 214,
+              "y": 143,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              223,
+              142,
+              10,
+              18
+            ],
+            "fill": "saffron"
+          },
+          {
+            "path": "M223 142 L228 139 L233 142 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 225,
+              "y": 145,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              233,
+              144,
+              9,
+              16
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "path": "M233 144 L237.5 141 L242 144 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 235,
+              "y": 147,
+              "cols": 1,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              242,
+              139,
+              16,
+              21
+            ],
+            "fill": "ochre"
+          },
+          {
+            "path": "M242 139 L250 136 L258 139 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 244,
+              "y": 142,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              258,
+              141,
+              15,
+              19
+            ],
+            "fill": "peach"
+          },
+          {
+            "path": "M258 141 L265.5 138 L273 141 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 260,
+              "y": 144,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              273,
+              143,
+              14,
+              17
+            ],
+            "fill": "rose"
+          },
+          {
+            "path": "M273 143 L280 140 L287 143 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 275,
+              "y": 146,
+              "cols": 3,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "rect": [
+              287,
+              145,
+              13,
+              15
+            ],
+            "fill": "cream"
+          },
+          {
+            "path": "M287 145 L293.5 142 L300 145 Z",
+            "fill": "brick"
+          },
+          {
+            "windows": {
+              "x": 289,
+              "y": 148,
+              "cols": 2,
+              "rows": 1,
+              "w": 1.6,
+              "h": 2.4,
+              "gx": 4
+            },
+            "fill": "slate"
+          },
+          {
+            "path": "M232 112 H238 V100 H240 V96 H242 V100 H244 V112 Z",
+            "fill": "cream"
+          },
+          {
+            "path": "M60 120 L66 98 L72 120 Z",
+            "fill": "cream"
+          },
+          {
+            "rect": [
+              0,
+              160,
+              300,
+              50
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "tiles": [
+              0,
+              160,
+              300,
+              50
+            ],
+            "fill": "terracotta"
+          },
+          {
+            "text": "III · PIAZZALE MICHELANGELO",
+            "x": 150,
+            "y": 26,
+            "size": 17,
+            "align": "center",
+            "font": "display",
+            "tracking": 0.06
+          }
+        ]
+      },
+      "pieces": [
+        {
+          "id": "citta",
+          "type": "box",
+          "x": [
+            120,
+            285
+          ],
+          "near": 45,
+          "far": 35,
+          "height": 70,
+          "faces": {
+            "front": {
+              "color": "cream",
+              "outline": "M0 70 V-4 H30 V-10 H56 V-18 H60 C61 -32 72 -38 78 -38.5 V-40.5 H79.2 V-43 L80 -44 L80.8 -43 V-40.5 H82 V-38.5 C88 -38 99 -32 100 -18 H104 V-42 H112 V-6 H140 V-2 H165 V70 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    -4,
+                    30,
+                    74
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    30,
+                    -10,
+                    26,
+                    80
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    56,
+                    -18,
+                    48,
+                    88
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    56,
+                    -18,
+                    48,
+                    1.4
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    56,
+                    -3,
+                    48,
+                    1.4
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "circle": [
+                    63,
+                    -10,
+                    1.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    72,
+                    -10,
+                    1.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    88,
+                    -10,
+                    1.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "circle": [
+                    97,
+                    -10,
+                    1.6
+                  ],
+                  "fill": "sage"
+                },
+                {
+                  "path": "M60 -18 C61 -32 72 -38 78 -38.5 H82 C88 -38 99 -32 100 -18 Z",
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    60,
+                    -38.5,
+                    40,
+                    20.5
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "path": "M60.6 -18 C62 -31 72 -37.5 78 -38.5",
+                  "stroke": "paper",
+                  "width": 1.1
+                },
+                {
+                  "path": "M70 -18 C71 -29 75 -36 79 -38.5",
+                  "stroke": "paper",
+                  "width": 1
+                },
+                {
+                  "path": "M80 -18 V-38.5",
+                  "stroke": "paper",
+                  "width": 1
+                },
+                {
+                  "path": "M90 -18 C89 -29 85 -36 81 -38.5",
+                  "stroke": "paper",
+                  "width": 1
+                },
+                {
+                  "path": "M99.4 -18 C98 -31 88 -37.5 82 -38.5",
+                  "stroke": "paper",
+                  "width": 1.1
+                },
+                {
+                  "path": "M78 -38.5 V-40.5 H79.2 V-43 L80 -44 L80.8 -43 V-40.5 H82 V-38.5 Z",
+                  "fill": "paper"
+                },
+                {
+                  "rect": [
+                    104,
+                    -42,
+                    8,
+                    112
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    104,
+                    -42,
+                    8,
+                    2.4
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 105.5,
+                    "y": -37,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 2,
+                    "h": 8,
+                    "gx": 3,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    104,
+                    -26,
+                    8,
+                    1
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    104,
+                    -14,
+                    8,
+                    1
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    104,
+                    -2,
+                    8,
+                    1
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    104,
+                    2,
+                    8,
+                    6
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    112,
+                    -6,
+                    28,
+                    76
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "rect": [
+                    140,
+                    -2,
+                    25,
+                    72
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "windows": {
+                    "x": 3,
+                    "y": 4,
+                    "cols": 4,
+                    "rows": 5,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 33,
+                    "y": 4,
+                    "cols": 4,
+                    "rows": 5,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 115,
+                    "y": 5,
+                    "cols": 4,
+                    "rows": 5,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 143,
+                    "y": 6,
+                    "cols": 3,
+                    "rows": 5,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 60,
+                    "y": 6,
+                    "cols": 6,
+                    "rows": 4,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 7,
+                    "gy": 11
+                  },
+                  "shutters": "sage"
+                },
+                {
+                  "rect": [
+                    0,
+                    -4,
+                    30,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    30,
+                    -10,
+                    26,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    112,
+                    -6,
+                    28,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    140,
+                    -2,
+                    25,
+                    1.6
+                  ],
+                  "fill": "brick"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    56,
+                    45
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    56,
+                    0,
+                    48,
+                    45
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "tiles": [
+                    104,
+                    0,
+                    61,
+                    45
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            },
+            "topBack": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    165,
+                    35
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            },
+            "back": {
+              "color": "ochre",
+              "art": [
+                {
+                  "windows": {
+                    "x": 6,
+                    "y": 8,
+                    "cols": 16,
+                    "rows": 4,
+                    "w": 3,
+                    "h": 5,
+                    "gx": 10,
+                    "gy": 14
+                  },
+                  "shutters": "pine"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "oltrarno",
+          "type": "step",
+          "parent": "citta",
+          "x": [
+            125,
+            280
+          ],
+          "out": 28,
+          "up": 38,
+          "faces": {
+            "wall": {
+              "color": "cream",
+              "outline": "M0 38 V-6 H24 V-2 H50 V-9 H70 V-6 L85 -16 L100 -6 V-4 H126 V-10 H155 V38 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    -6,
+                    24,
+                    44
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "rect": [
+                    24,
+                    -2,
+                    26,
+                    40
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "rect": [
+                    50,
+                    -9,
+                    20,
+                    47
+                  ],
+                  "fill": "peach"
+                },
+                {
+                  "rect": [
+                    70,
+                    -6,
+                    30,
+                    44
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "path": "M70 -6 L85 -16 L100 -6 Z",
+                  "fill": "cream"
+                },
+                {
+                  "path": "M70 -6 L85 -16 L100 -6",
+                  "stroke": "pine",
+                  "width": 0.8
+                },
+                {
+                  "circle": [
+                    85,
+                    4,
+                    3.2
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "circle": [
+                    85,
+                    4,
+                    1.8
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    70.4,
+                    -6,
+                    1.2,
+                    44
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    83.4,
+                    -6,
+                    1.2,
+                    44
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "rect": [
+                    98,
+                    -6,
+                    1.2,
+                    44
+                  ],
+                  "fill": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 81,
+                    "y": 22,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 8,
+                    "h": 16,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "windows": {
+                    "x": 74,
+                    "y": 26,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 4,
+                    "h": 10,
+                    "gx": 18,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    100,
+                    -4,
+                    26,
+                    42
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "rect": [
+                    126,
+                    -10,
+                    29,
+                    48
+                  ],
+                  "fill": "rose"
+                },
+                {
+                  "windows": {
+                    "x": 3,
+                    "y": 2,
+                    "cols": 3,
+                    "rows": 3,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 27,
+                    "y": 2,
+                    "cols": 4,
+                    "rows": 3,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "olive"
+                },
+                {
+                  "windows": {
+                    "x": 53,
+                    "y": 2,
+                    "cols": 3,
+                    "rows": 3,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "windows": {
+                    "x": 103,
+                    "y": 2,
+                    "cols": 4,
+                    "rows": 3,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "olive"
+                },
+                {
+                  "windows": {
+                    "x": 129,
+                    "y": 2,
+                    "cols": 4,
+                    "rows": 3,
+                    "w": 2.8,
+                    "h": 4.6,
+                    "gx": 6,
+                    "gy": 10
+                  },
+                  "shutters": "pine"
+                },
+                {
+                  "rect": [
+                    0,
+                    -6,
+                    24,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    24,
+                    -2,
+                    26,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    50,
+                    -9,
+                    20,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    100,
+                    -4,
+                    26,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    126,
+                    -10,
+                    29,
+                    1.6
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    0,
+                    32,
+                    155,
+                    6
+                  ],
+                  "fill": "stone"
+                }
+              ]
+            },
+            "top": {
+              "art": [
+                {
+                  "tiles": [
+                    0,
+                    0,
+                    70,
+                    28
+                  ],
+                  "fill": "terracotta"
+                },
+                {
+                  "tiles": [
+                    70,
+                    0,
+                    30,
+                    28
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "tiles": [
+                    100,
+                    0,
+                    55,
+                    28
+                  ],
+                  "fill": "terracotta"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "david",
+          "type": "vfold",
+          "x": 24,
+          "angle": 16,
+          "dir": "right",
+          "width": 18,
+          "height": 64,
+          "faces": {
+            "near": {
+              "color": "olive",
+              "outline": "M0 64 V50 H2 V46 H5 L5.4 30 L4.4 22 L3 14 L4 10 L6.2 9 L7.6 8 L7.2 6 V2.4 L9 0.6 L10.8 2.4 V6 L10.4 8 L12 9 L14 8 L14.6 6.6 L15.6 7.2 L15.2 11 L13.4 15 L12.2 22 L13 30 L12.6 46 H16 V50 H18 V64 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    18,
+                    64
+                  ],
+                  "fill": "olive"
+                },
+                {
+                  "path": "M9 31 V46",
+                  "stroke": "pine",
+                  "width": 0.5
+                },
+                {
+                  "path": "M5.6 22 Q9 24 12.2 22",
+                  "stroke": "pine",
+                  "width": 0.4
+                },
+                {
+                  "rect": [
+                    0,
+                    46,
+                    18,
+                    18
+                  ],
+                  "fill": "stone"
+                },
+                {
+                  "rect": [
+                    2,
+                    46,
+                    14,
+                    4
+                  ],
+                  "fill": "cream"
+                },
+                {
+                  "rect": [
+                    0,
+                    54,
+                    18,
+                    0.8
+                  ],
+                  "fill": "cream"
+                }
+              ]
+            },
+            "far": {
+              "color": "olive",
+              "outline": "M0 64 V50 H2 V46 H5 L5.4 30 L4.4 22 L3 14 L4 10 L6.2 9 L7.6 8 L7.2 6 V2.4 L9 0.6 L10.8 2.4 V6 L10.4 8 L12 9 L14 8 L14.6 6.6 L15.6 7.2 L15.2 11 L13.4 15 L12.2 22 L13 30 L12.6 46 H16 V50 H18 V64 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    46,
+                    18,
+                    18
+                  ],
+                  "fill": "stone"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "palazzo-vecchio",
+          "type": "vfold",
+          "x": 52,
+          "angle": 16,
+          "dir": "right",
+          "width": 46,
+          "height": 118,
+          "faces": {
+            "near": {
+              "color": "ochre",
+              "outline": "M0 118 L0 50 L0 47 L1.8 47 L1.8 50 L3.6 50 L3.6 47 L5.4 47 L5.4 50 L7.2 50 L7.2 47 L9 47 L9 50 L10.8 50 L10.8 47 L12.6 47 L12.6 50 L14.4 50 L14.4 47 L16.2 47 L16.2 50 L18 50 L18 30 L16 30 L16 22 L16 20.4 L16.88 20.4 L16.88 22 L17.75 22 L17.75 20.4 L18.63 20.4 L18.63 22 L19.5 22 L19.5 8 L21 8 L23 1 L25 8 L26.5 8 L26.5 22 L26.5 20.4 L27.38 20.4 L27.38 22 L28.25 22 L28.25 20.4 L29.13 20.4 L29.13 22 L30 22 L30 30 L28 30 L28 50 L28 47 L29.8 47 L29.8 50 L31.6 50 L31.6 47 L33.4 47 L33.4 50 L35.2 50 L35.2 47 L37 47 L37 50 L38.8 50 L38.8 47 L40.6 47 L40.6 50 L42.4 50 L42.4 47 L44.2 47 L44.2 50 L46 50 L46 118 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    0,
+                    46,
+                    118
+                  ],
+                  "fill": "ochre"
+                },
+                {
+                  "path": "M21 8 L23 1 L25 8 Z",
+                  "fill": "brick"
+                },
+                {
+                  "windows": {
+                    "x": 20.5,
+                    "y": 12,
+                    "cols": 2,
+                    "rows": 1,
+                    "w": 2,
+                    "h": 7,
+                    "gx": 3,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    16,
+                    26,
+                    14,
+                    1
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "path": "M16.5 27 H18.5 L17.5 30 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M20 27 H22 L21 30 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M23.5 27 H25.5 L24.5 30 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M27 27 H29 L28 30 Z",
+                  "fill": "brick"
+                },
+                {
+                  "circle": [
+                    23,
+                    40,
+                    3.2
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "path": "M23 40 V37.6 M23 40 L24.8 41",
+                  "stroke": "ink",
+                  "width": 0.5
+                },
+                {
+                  "rect": [
+                    0,
+                    50,
+                    46,
+                    7
+                  ],
+                  "fill": "saffron"
+                },
+                {
+                  "path": "M0.5 57 H3.3 L1.9 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M4.7 57 H7.5 L6.1 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M8.9 57 H11.7 L10.3 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M13.100000000000001 57 H15.900000000000002 L14.500000000000002 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M17.3 57 H20.1 L18.7 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M21.5 57 H24.3 L22.9 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M25.700000000000003 57 H28.500000000000004 L27.1 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M29.900000000000002 57 H32.7 L31.3 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M34.1 57 H36.9 L35.5 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M38.300000000000004 57 H41.1 L39.7 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "path": "M42.5 57 H45.3 L43.9 61 Z",
+                  "fill": "brick"
+                },
+                {
+                  "windows": {
+                    "x": 5,
+                    "y": 67,
+                    "cols": 4,
+                    "rows": 2,
+                    "w": 5,
+                    "h": 9,
+                    "gx": 10.5,
+                    "gy": 17,
+                    "arch": true
+                  },
+                  "fill": "deep"
+                },
+                {
+                  "rect": [
+                    0,
+                    79,
+                    46,
+                    0.8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "rect": [
+                    0,
+                    96,
+                    46,
+                    0.8
+                  ],
+                  "fill": "brick"
+                },
+                {
+                  "windows": {
+                    "x": 19.5,
+                    "y": 103,
+                    "cols": 1,
+                    "rows": 1,
+                    "w": 7,
+                    "h": 15,
+                    "arch": true
+                  },
+                  "fill": "ink"
+                },
+                {
+                  "circle": [
+                    8,
+                    108,
+                    2.4
+                  ],
+                  "fill": "paper"
+                },
+                {
+                  "circle": [
+                    38,
+                    108,
+                    2.4
+                  ],
+                  "fill": "paper"
+                }
+              ]
+            },
+            "far": {
+              "color": "ochre",
+              "outline": "M0 118 L0 50 L0 47 L1.8 47 L1.8 50 L3.6 50 L3.6 47 L5.4 47 L5.4 50 L7.2 50 L7.2 47 L9 47 L9 50 L10.8 50 L10.8 47 L12.6 47 L12.6 50 L14.4 50 L14.4 47 L16.2 47 L16.2 50 L18 50 L18 30 L16 30 L16 22 L16 20.4 L16.88 20.4 L16.88 22 L17.75 22 L17.75 20.4 L18.63 20.4 L18.63 22 L19.5 22 L19.5 8 L21 8 L23 1 L25 8 L26.5 8 L26.5 22 L26.5 20.4 L27.38 20.4 L27.38 22 L28.25 22 L28.25 20.4 L29.13 20.4 L29.13 22 L30 22 L30 30 L28 30 L28 50 L28 47 L29.8 47 L29.8 50 L31.6 50 L31.6 47 L33.4 47 L33.4 50 L35.2 50 L35.2 47 L37 47 L37 50 L38.8 50 L38.8 47 L40.6 47 L40.6 50 L42.4 50 L42.4 47 L44.2 47 L44.2 50 L46 50 L46 118 Z",
+              "art": [
+                {
+                  "rect": [
+                    0,
+                    50,
+                    46,
+                    7
+                  ],
+                  "fill": "saffron"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "giorno-notte",
+          "type": "wheel",
+          "page": "near",
+          "center": [
+            232,
+            150
+          ],
+          "r": 36,
+          "steps": 2,
+          "start": 0,
+          "face": {
+            "color": "sky",
+            "art": [
+              {
+                "path": "M0 36 A36 36 0 0 1 72 36 Z",
+                "fill": "sky"
+              },
+              {
+                "path": "M0 36 A36 36 0 0 0 72 36 Z",
+                "fill": "deep"
+              },
+              {
+                "path": "M45.5 17 L48.5 17",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M44.23 21.75 L46.83 23.25",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M40.75 25.23 L42.25 27.83",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M36 26.5 L36 29.5",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M31.25 25.23 L29.75 27.83",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M27.77 21.75 L25.17 23.25",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M26.5 17 L23.5 17",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M27.77 12.25 L25.17 10.75",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M31.25 8.77 L29.75 6.17",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M36 7.5 L36 4.5",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M40.75 8.77 L42.25 6.17",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "path": "M44.23 12.25 L46.83 10.75",
+                "stroke": "saffron",
+                "width": 1
+              },
+              {
+                "circle": [
+                  36,
+                  17,
+                  7.5
+                ],
+                "fill": "saffron"
+              },
+              {
+                "path": "M10 30 Q12 26 16 27 Q18 23 23 25 Q27 25 27 30 Z",
+                "fill": "paper"
+              },
+              {
+                "path": "M48 31 Q50 28 53 29 Q56 26 60 28 Q63 29 62 32 Z",
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  36,
+                  55,
+                  7.5
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  39.5,
+                  52.5,
+                  6.6
+                ],
+                "fill": "deep"
+              },
+              {
+                "circle": [
+                  14,
+                  46,
+                  0.9
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  22,
+                  60,
+                  0.7
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  54,
+                  44,
+                  0.8
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  58,
+                  58,
+                  1
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  48,
+                  66,
+                  0.6
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  18,
+                  52,
+                  0.6
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  28,
+                  44,
+                  0.7
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  62,
+                  50,
+                  0.6
+                ],
+                "fill": "paper"
+              },
+              {
+                "circle": [
+                  26,
+                  68,
+                  0.6
+                ],
+                "fill": "paper"
+              },
+              {
+                "path": "M0 36 H72",
+                "stroke": "cream",
+                "width": 0.8
+              }
+            ]
+          },
+          "window": "M200 150 A32 32 0 0 1 264 150 Z"
+        }
+      ]
+    }
+  ]
+}
