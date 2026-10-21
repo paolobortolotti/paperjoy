@@ -191,10 +191,10 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
   <section class="wrap hero">
     <div>
       <h1 class="display">Da una riga<br>a un libro<br>che <em>si apre</em>.</h1>
-      <p class="lead">Scrivi cosa deve alzarsi dalla pagina. Ricevi un file HTML con un libro pop-up di carta in tre aperture, e in ognuna una linguetta da tirare, uno sportello da alzare o una ruota da girare.</p>
+      <p class="lead">Scrivi in una riga il luogo e cosa deve alzarsi dalla pagina. Claude ti restituisce un file HTML con un libro pop-up di carta in tre aperture, ognuna con un pezzo da muovere.</p>
       <div class="prompt"><code id="cmd">${CLONE}</code><button type="button" data-copy="#cmd">Copia</button></div>
       <p class="note">Una skill gratuita per Claude Code. <a href="#installa">Come installarla</a> &middot; <a href="#sicuro">Cosa c'è dentro</a></p>
-      <p class="note">Funziona per luoghi e storie: città, borghi, hotel, eventi. Non per oggetti con un interno da spiegare, come un motore: lì il pop-up non mostra niente.</p>
+      <p class="note">Va bene per luoghi e storie, una città o un evento. Per un oggetto da spiegare dall'interno, come un motore, serve un'illustrazione in sezione.</p>
     </div>
     <div class="panel">
       <div class="stage hero-stage" id="hero"></div>
@@ -203,20 +203,20 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
   </section>
 
   <section class="band" id="esempi"><div class="wrap">
-    <div class="side"><h2 class="display">Esempi</h2><p>Ogni libro viene dalla richiesta scritta sotto, sullo stesso motore: cambia solo la descrizione della scena. Qui si sfogliano da soli; a tutta pagina si tirano le linguette, si alzano gli sportelli e si girano le ruote.</p></div>
+    <div class="side"><h2 class="display">Esempi</h2><p>Ogni libro è nato dalla richiesta scritta sotto, sullo stesso motore. Qui le pagine girano da sole; per toccare i pezzi apri il libro a tutta pagina.</p></div>
     <div class="grid">${cards}
     </div>
   </div></section>
 
   <section class="band" id="tua-citta"><div class="wrap">
-    <div class="side"><h2 class="display">La tua città</h2><p>Le otto città sono esempi. Per un altro luogo si cambia la descrizione, non il codice.</p></div>
+    <div class="side"><h2 class="display">La tua città</h2><p>Le otto città sono esempi. Per un altro luogo cambia la descrizione e il codice resta lo stesso.</p></div>
     <div>
       <ol class="steps">
-        <li><b>Descrivi il luogo</b><p>Cosa si alza dalla pagina e cosa si può toccare. Due righe bastano.</p></li>
-        <li><b>Il controllo delle pieghe</b><p>Prima della consegna un validatore apre e chiude il libro e prova ogni piega come su carta vera. Se un pezzo sporge o ne urta un altro, dice quale e di quanti millimetri.</p></li>
-        <li><b>Un solo file</b><p>Un HTML tra 160 e 270 KB, senza dipendenze: si apre nel browser o si incolla in una pagina del sito.</p></li>
+        <li><b>Descrivi il luogo</b><p>Cosa si alza dalla pagina e cosa si muove. Di solito bastano due righe.</p></li>
+        <li><b>Il controllo delle pieghe</b><p>Prima di consegnare, un validatore apre e chiude il libro e prova ogni piega come se fosse carta. Se un pezzo sporge o ne urta un altro, dice quale e di quanti millimetri.</p></li>
+        <li><b>Un solo file</b><p>Un HTML tra 160 e 270 KB senza dipendenze, che si apre nel browser o si incolla in una pagina del sito.</p></li>
       </ol>
-      <p class="eyebrow" style="margin-bottom:10px">Richieste di esempio · un clic le copia</p>
+      <p class="eyebrow" style="margin-bottom:10px">Richieste di esempio, da copiare con un clic</p>
       <div class="tries">
         <button type="button" class="try">un libro pop-up di Napoli, con il Vesuvio e il golfo</button>
         <button type="button" class="try">Lisbona in tre aperture, con un tram da far salire</button>
@@ -229,32 +229,32 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
   </div></section>
 
   <section class="band" id="meccanismi"><div class="wrap">
-    <div class="side"><h2 class="display">Cosa si muove</h2><p>Sei meccanismi presi dai libri pop-up veri. Ogni pezzo è incollato e piegato come in carta: nessuno galleggia.</p></div>
+    <div class="side"><h2 class="display">Cosa si muove</h2><p>Sei meccanismi presi dai libri pop-up veri. Ogni pezzo è incollato alla pagina e si piega con lei, come succede con la carta.</p></div>
     <div class="mech">
-      <div><b>Facciate</b><p>Una piega parallela alla costola: palazzi, ponti, file di case.</p></div>
-      <div><b>Gradoni</b><p>Pieghe annidate che scendono verso chi legge: terrazze, scalinate.</p></div>
-      <div><b>Torri</b><p>Una piega a V sulla costola: campanili, fari, la Mole.</p></div>
-      <div><b>Linguetta</b><p>Si tira dal bordo e qualcosa attraversa la pagina: una nave, un bus, un treno.</p></div>
-      <div><b>Sportello</b><p>Si alza e mostra cosa c'è sotto o dentro: un cortile, la metro, un caffè.</p></div>
-      <div><b>Ruota</b><p>Si gira e cambia la scena: l'ora, la stagione, il giorno e la notte.</p></div>
+      <div><b>Facciate</b><p>Una piega parallela alla costola, per palazzi e ponti.</p></div>
+      <div><b>Gradoni</b><p>Pieghe annidate che scendono verso chi legge, come le terrazze di un borgo.</p></div>
+      <div><b>Torri</b><p>Una piega a V sulla costola, per campanili e fari.</p></div>
+      <div><b>Linguetta</b><p>Si tira dal bordo e porta qualcosa da un lato all'altro della pagina, una nave o un bus.</p></div>
+      <div><b>Sportello</b><p>Si alza e mostra cosa c'è sotto, un cortile o la metro.</p></div>
+      <div><b>Ruota</b><p>Si gira e cambia l'ora o la stagione della scena.</p></div>
     </div>
   </div></section>
 
   <section class="band" id="installa"><div class="wrap">
-    <div class="side"><h2 class="display">Installa</h2><p>Tre passi, un paio di minuti. Servono Claude Code e Node.js: <code>node -v</code> nel Terminale ti dice se c'è.</p></div>
+    <div class="side"><h2 class="display">Installa</h2><p>Tre passi, un paio di minuti. Servono Claude Code e Node.js; per sapere se hai Node scrivi <code>node -v</code> nel Terminale.</p></div>
     <div>
       <div class="tabs" role="tablist">
         <button type="button" class="tab" role="tab" aria-selected="true" data-tab="git">Claude Code</button>
         <button type="button" class="tab" role="tab" aria-selected="false" data-tab="zip">Download .zip</button>
       </div>
       <ol class="steps" data-panel="git">
-        <li><b>Installa</b><p>Apri il Terminale (su Mac: &#8984; Spazio, scrivi Terminale), incolla questa riga e premi Invio.</p><div class="prompt"><code id="cmd-git">${CLONE}</code><button type="button" data-copy="#cmd-git">Copia</button></div></li>
-        <li><b>Riavvia Claude Code</b><p>Chiudilo e riaprilo: legge le skill all'avvio.</p></li>
-        <li><b>Chiedi un libro</b><p>Descrivi il luogo a parole, oppure comincia con <code>/popup-carta</code>. Claude salva un file .html nella cartella in cui lavori: aprilo con un doppio clic.</p></li>
+        <li><b>Installa</b><p>Apri il Terminale (su Mac &#8984; Spazio, poi scrivi Terminale), incolla questa riga e premi Invio.</p><div class="prompt"><code id="cmd-git">${CLONE}</code><button type="button" data-copy="#cmd-git">Copia</button></div></li>
+        <li><b>Riavvia Claude Code</b><p>Claude Code legge le skill all'avvio, quindi va chiuso e riaperto.</p></li>
+        <li><b>Chiedi un libro</b><p>Descrivi il luogo a parole, oppure comincia con <code>/popup-carta</code>. Claude salva il file .html nella cartella in cui lavori e lo apri con un doppio clic.</p></li>
       </ol>
       <ol class="steps" data-panel="zip" hidden>
         <li><b>Scarica</b><p><a href="https://github.com/${REPO}/archive/refs/heads/main.zip">paperjoy-main.zip</a> da GitHub.</p></li>
-        <li><b>Apri lo zip</b><p>Doppio clic nella cartella Download: esce la cartella paperjoy-main. Leggi pure SKILL.md: sono le istruzioni che segue Claude.</p></li>
+        <li><b>Apri lo zip</b><p>Fai doppio clic sullo zip nella cartella Download e ottieni la cartella paperjoy-main. Dentro c'è SKILL.md, con le istruzioni che segue Claude.</p></li>
         <li><b>Spostala tra le skill</b><p>Nel Terminale incolla questa riga, poi riavvia Claude Code.</p><div class="prompt"><code id="cmd-zip">mkdir -p ~/.claude/skills &amp;&amp; mv ~/Downloads/paperjoy-main ~/.claude/skills/popup-carta</code><button type="button" data-copy="#cmd-zip">Copia</button></div></li>
       </ol>
     </div>
@@ -263,9 +263,9 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
   <section class="band" id="sicuro"><div class="wrap">
     <div class="side"><h2 class="display">È sicuro?</h2><p>Puoi leggere ogni file prima di installarlo. <a href="https://github.com/${REPO}">Il codice è su GitHub</a>.</p></div>
     <div class="safe">
-      <div><b>Testo in chiaro</b><p>Le istruzioni per Claude, il motore in JavaScript, lo schema della scena, i libri d'esempio e due font. Nessun file eseguibile già compilato.</p></div>
-      <div><b>All'installazione non parte niente</b><p>Si copiano dei file in una cartella. Nessuno script, nessun pacchetto da scaricare, nessuna dipendenza.</p></div>
-      <div><b>Il libro resta nel browser</b><p>Ogni libro è un file HTML con motore e font dentro. Non fa richieste esterne, non traccia e non chiede account.</p></div>
+      <div><b>Testo in chiaro</b><p>Dentro ci sono le istruzioni per Claude, il motore in JavaScript, lo schema della scena, i libri d'esempio e due font. Nessun eseguibile compilato.</p></div>
+      <div><b>All'installazione non parte niente</b><p>L'installazione copia dei file in una cartella e basta. Non esegue script e non scarica pacchetti.</p></div>
+      <div><b>Il libro resta nel browser</b><p>Ogni libro è un file HTML con motore e font dentro. Non chiama server esterni e non chiede account.</p></div>
     </div>
   </div></section>
 
@@ -275,9 +275,9 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
       <details><summary>Cos'è una skill?</summary><p>Una cartella di istruzioni e file che Claude legge quando il compito la riguarda. Questa gli insegna a scrivere la scena del libro in un JSON e a farla controllare dal motore prima di consegnarla.</p></details>
       <details><summary>Claude non la usa</summary><p>Controlla che esista <code>~/.claude/skills/popup-carta/SKILL.md</code> e riavvia Claude Code. Puoi anche chiamarla per nome con <code>/popup-carta</code>.</p></details>
       <details><summary>Funziona su claude.ai?</summary><p>Non l'ho provata lì. Il controllo delle pieghe gira con Node.js, quindi l'ambiente sicuro è Claude Code sul tuo computer.</p></details>
-      <details><summary>Posso metterlo in una pagina del mio sito?</summary><p>Sì. Chiedi il libro «da incollare in una pagina»: invece del file intero ricevi il blocco con stile, libro e script, che prende la larghezza del contenitore.</p></details>
-      <details><summary>Come la aggiorno o la tolgo?</summary><p>Per aggiornarla: <code>git -C ~/.claude/skills/popup-carta pull</code>. Per toglierla basta cancellare la cartella <code>~/.claude/skills/popup-carta</code>.</p></details>
-      <details><summary>Posso usarla per lavori commerciali?</summary><p>Sì. Il codice ha licenza MIT; i font Bebas Neue e DM Sans hanno licenza SIL Open Font License. I libri che crei sono tuoi.</p></details>
+      <details><summary>Posso metterlo in una pagina del mio sito?</summary><p>Sì. Chiedi il libro «da incollare in una pagina» e ricevi il blocco con stile, libro e script, che prende la larghezza del contenitore.</p></details>
+      <details><summary>Come la aggiorno o la tolgo?</summary><p>Per aggiornarla usa <code>git -C ~/.claude/skills/popup-carta pull</code>, per toglierla cancella la cartella <code>~/.claude/skills/popup-carta</code>.</p></details>
+      <details><summary>Posso usarla per lavori commerciali?</summary><p>Sì. Il codice ha licenza MIT e i font Bebas Neue e DM Sans la SIL Open Font License. I libri che crei sono tuoi.</p></details>
     </div>
   </div></section>
 </main>
